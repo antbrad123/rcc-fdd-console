@@ -1,0 +1,2520 @@
+ref,building,status
+AHU-01,1 Pancras,Enabled
+AHU-01,2 Pancras,Enabled
+AHU-01,3 Pancras,Enabled
+AHU-01,4 Pancras,Enabled
+AHU-01,B0 Accessway,NA
+AHU-01,WTS,Enabled
+AHU-01,S1,Enabled
+AHU-01,R7,Enabled
+AHU-01,Q1,Enabled
+AHU-01,T2-T3,Enabled
+AHU-01,P2,Backlog
+AHU-01,CDY,Backlog
+AHU-01,MGS,Backlog
+AHU-02,1 Pancras,Enabled
+AHU-02,2 Pancras,Enabled
+AHU-02,3 Pancras,Enabled
+AHU-02,4 Pancras,Enabled
+AHU-02,B0 Accessway,NA
+AHU-02,WTS,Enabled
+AHU-02,S1,Backlog
+AHU-02,R7,Enabled
+AHU-02,Q1,Enabled
+AHU-02,T2-T3,Enabled
+AHU-02,P2,Enabled
+AHU-02,CDY,Enabled
+AHU-02,MGS,Enabled
+AHU-03,1 Pancras,Enabled
+AHU-03,2 Pancras,Enabled
+AHU-03,3 Pancras,Enabled
+AHU-03,4 Pancras,Enabled
+AHU-03,B0 Accessway,NA
+AHU-03,WTS,Enabled
+AHU-03,S1,Backlog
+AHU-03,R7,Enabled
+AHU-03,Q1,Enabled
+AHU-03,T2-T3,Enabled
+AHU-03,P2,Enabled
+AHU-03,CDY,Enabled
+AHU-03,MGS,Enabled
+AHU-04,1 Pancras,Enabled
+AHU-04,2 Pancras,Enabled
+AHU-04,3 Pancras,Enabled
+AHU-04,4 Pancras,Enabled
+AHU-04,B0 Accessway,NA
+AHU-04,WTS,Enabled
+AHU-04,S1,Enabled
+AHU-04,R7,Enabled
+AHU-04,Q1,Enabled
+AHU-04,T2-T3,Enabled
+AHU-04,P2,Enabled
+AHU-04,CDY,Enabled
+AHU-04,MGS,Enabled
+AHU-05,1 Pancras,Enabled
+AHU-05,2 Pancras,Enabled
+AHU-05,3 Pancras,Enabled
+AHU-05,4 Pancras,Enabled
+AHU-05,B0 Accessway,NA
+AHU-05,WTS,Enabled
+AHU-05,S1,Enabled
+AHU-05,R7,Enabled
+AHU-05,Q1,Enabled
+AHU-05,T2-T3,Enabled
+AHU-05,P2,Enabled
+AHU-05,CDY,Enabled
+AHU-05,MGS,Enabled
+AHU-06,1 Pancras,NA
+AHU-06,2 Pancras,Enabled
+AHU-06,3 Pancras,NA
+AHU-06,4 Pancras,NA
+AHU-06,B0 Accessway,NA
+AHU-06,WTS,Enabled
+AHU-06,S1,NA
+AHU-06,R7,NA
+AHU-06,Q1,NA
+AHU-06,T2-T3,NA
+AHU-06,P2,NA
+AHU-06,S3,NA
+AHU-06,CDY,NA
+AHU-06,MGS,NA
+AHU-07,1 Pancras,NA
+AHU-07,2 Pancras,NA
+AHU-07,3 Pancras,NA
+AHU-07,4 Pancras,NA
+AHU-07,B0 Accessway,NA
+AHU-07,WTS,NA
+AHU-07,S1,NA
+AHU-07,R7,NA
+AHU-07,Q1,NA
+AHU-07,T2-T3,NA
+AHU-07,P2,NA
+AHU-07,S3,NA
+AHU-07,CDY,NA
+AHU-07,MGS,NA
+AHU-08,1 Pancras,NA
+AHU-08,2 Pancras,NA
+AHU-08,3 Pancras,NA
+AHU-08,4 Pancras,NA
+AHU-08,B0 Accessway,NA
+AHU-08,WTS,NA
+AHU-08,S1,NA
+AHU-08,R7,NA
+AHU-08,Q1,NA
+AHU-08,T2-T3,NA
+AHU-08,P2,NA
+AHU-08,S3,NA
+AHU-08,CDY,NA
+AHU-08,MGS,NA
+AHU-09,1 Pancras,Enabled
+AHU-09,2 Pancras,Enabled
+AHU-09,3 Pancras,Enabled
+AHU-09,4 Pancras,Enabled
+AHU-09,B0 Accessway,NA
+AHU-09,WTS,Enabled
+AHU-09,S1,Enabled
+AHU-09,R7,Enabled
+AHU-09,Q1,Backlog
+AHU-09,T2-T3,Enabled
+AHU-09,P2,Enabled
+AHU-09,CDY,Backlog
+AHU-09,MGS,Enabled
+AHU-10,1 Pancras,NA
+AHU-10,2 Pancras,NA
+AHU-10,3 Pancras,NA
+AHU-10,4 Pancras,NA
+AHU-10,B0 Accessway,NA
+AHU-10,WTS,NA
+AHU-10,S1,NA
+AHU-10,R7,NA
+AHU-10,Q1,NA
+AHU-10,T2-T3,NA
+AHU-10,P2,NA
+AHU-10,S3,NA
+AHU-10,CDY,NA
+AHU-10,MGS,NA
+AHU-11,1 Pancras,Enabled
+AHU-11,2 Pancras,Enabled
+AHU-11,3 Pancras,Enabled
+AHU-11,4 Pancras,Enabled
+AHU-11,B0 Accessway,NA
+AHU-11,WTS,Enabled
+AHU-11,S1,Enabled
+AHU-11,R7,Enabled
+AHU-11,Q1,Enabled
+AHU-11,T2-T3,Enabled
+AHU-11,P2,Enabled
+AHU-11,CDY,Enabled
+AHU-11,MGS,Backlog
+AHU-12,1 Pancras,Enabled
+AHU-12,2 Pancras,Enabled
+AHU-12,3 Pancras,Enabled
+AHU-12,4 Pancras,Enabled
+AHU-12,B0 Accessway,NA
+AHU-12,WTS,Enabled
+AHU-12,S1,Enabled
+AHU-12,R7,Enabled
+AHU-12,Q1,Enabled
+AHU-12,T2-T3,Enabled
+AHU-12,P2,Enabled
+AHU-12,CDY,NA
+AHU-12,MGS,Enabled
+AHU-13,1 Pancras,NA
+AHU-13,2 Pancras,NA
+AHU-13,3 Pancras,NA
+AHU-13,4 Pancras,NA
+AHU-13,B0 Accessway,NA
+AHU-13,WTS,NA
+AHU-13,S1,NA
+AHU-13,R7,NA
+AHU-13,Q1,NA
+AHU-13,T2-T3,NA
+AHU-13,P2,NA
+AHU-13,S3,NA
+AHU-13,CDY,NA
+AHU-13,MGS,NA
+AHU-14,1 Pancras,Enabled
+AHU-14,2 Pancras,Enabled
+AHU-14,3 Pancras,Enabled
+AHU-14,4 Pancras,Backlog
+AHU-14,B0 Accessway,NA
+AHU-14,WTS,Enabled
+AHU-14,S1,Enabled
+AHU-14,R7,Enabled
+AHU-14,Q1,Enabled
+AHU-14,T2-T3,Enabled
+AHU-14,P2,Enabled
+AHU-14,CDY,NA
+AHU-14,MGS,Enabled
+AHU-15,1 Pancras,Enabled
+AHU-15,2 Pancras,Enabled
+AHU-15,3 Pancras,Enabled
+AHU-15,4 Pancras,Enabled
+AHU-15,B0 Accessway,NA
+AHU-15,WTS,Enabled
+AHU-15,S1,Enabled
+AHU-15,R7,Enabled
+AHU-15,Q1,NA
+AHU-15,T2-T3,Enabled
+AHU-15,P2,Enabled
+AHU-15,CDY,NA
+AHU-15,MGS,Enabled
+AHU-16,1 Pancras,Backlog
+AHU-16,2 Pancras,Backlog
+AHU-16,3 Pancras,Backlog
+AHU-16,4 Pancras,Backlog
+AHU-16,B0 Accessway,NA
+AHU-16,WTS,Backlog
+AHU-16,S1,Backlog
+AHU-16,R7,Backlog
+AHU-16,Q1,Backlog
+AHU-16,T2-T3,Backlog
+AHU-16,P2,Backlog
+AHU-16,CDY,Backlog
+AHU-16,MGS,Backlog
+AHU-17,1 Pancras,NA
+AHU-17,2 Pancras,NA
+AHU-17,3 Pancras,NA
+AHU-17,4 Pancras,NA
+AHU-17,B0 Accessway,NA
+AHU-17,WTS,NA
+AHU-17,S1,NA
+AHU-17,R7,NA
+AHU-17,Q1,NA
+AHU-17,T2-T3,NA
+AHU-17,P2,NA
+AHU-17,S3,NA
+AHU-17,CDY,NA
+AHU-17,MGS,NA
+AHU-18,1 Pancras,Backlog
+AHU-18,2 Pancras,Backlog
+AHU-18,3 Pancras,Backlog
+AHU-18,4 Pancras,Backlog
+AHU-18,B0 Accessway,NA
+AHU-18,WTS,Backlog
+AHU-18,S1,Backlog
+AHU-18,R7,Backlog
+AHU-18,Q1,Backlog
+AHU-18,T2-T3,Backlog
+AHU-18,P2,Backlog
+AHU-18,S3,Backlog
+AHU-18,CDY,Backlog
+AHU-18,MGS,Backlog
+AHU-19,1 Pancras,NA
+AHU-19,2 Pancras,NA
+AHU-19,3 Pancras,NA
+AHU-19,4 Pancras,NA
+AHU-19,B0 Accessway,NA
+AHU-19,WTS,NA
+AHU-19,S1,NA
+AHU-20,1 Pancras,Backlog
+AHU-20,2 Pancras,Backlog
+AHU-20,3 Pancras,Backlog
+AHU-20,4 Pancras,Backlog
+AHU-20,B0 Accessway,NA
+AHU-20,WTS,Backlog
+AHU-20,S1,Backlog
+AHU-20,R7,Backlog
+AHU-20,Q1,Backlog
+AHU-20,T2-T3,Backlog
+AHU-20,P2,Backlog
+AHU-20,S3,Backlog
+AHU-20,CDY,Backlog
+AHU-20,MGS,Backlog
+AHU-21,1 Pancras,NA
+AHU-21,2 Pancras,NA
+AHU-21,3 Pancras,NA
+AHU-21,4 Pancras,NA
+AHU-21,B0 Accessway,NA
+AHU-21,WTS,NA
+AHU-21,S1,NA
+AHU-21,R7,NA
+AHU-21,Q1,NA
+AHU-21,T2-T3,NA
+AHU-21,P2,NA
+AHU-21,S3,NA
+AHU-21,CDY,NA
+AHU-21,MGS,NA
+AHU-22,1 Pancras,NA
+AHU-22,2 Pancras,NA
+AHU-22,3 Pancras,NA
+AHU-22,4 Pancras,NA
+AHU-22,B0 Accessway,NA
+AHU-22,WTS,NA
+AHU-22,S1,NA
+AHU-22,R7,NA
+AHU-22,Q1,NA
+AHU-22,T2-T3,NA
+AHU-22,P2,NA
+AHU-22,S3,NA
+AHU-22,CDY,NA
+AHU-22,MGS,NA
+AHU-23,1 Pancras,Backlog
+AHU-23,2 Pancras,Backlog
+AHU-23,3 Pancras,Backlog
+AHU-23,4 Pancras,Backlog
+AHU-23,B0 Accessway,NA
+AHU-23,WTS,Backlog
+AHU-23,S1,Backlog
+AHU-23,R7,Backlog
+AHU-23,Q1,Backlog
+AHU-23,T2-T3,Backlog
+AHU-23,P2,Backlog
+AHU-23,S3,Backlog
+AHU-23,CDY,Backlog
+AHU-23,MGS,Backlog
+AHU-24,1 Pancras,NA
+AHU-24,2 Pancras,NA
+AHU-24,3 Pancras,NA
+AHU-24,4 Pancras,NA
+AHU-24,B0 Accessway,NA
+AHU-24,WTS,NA
+AHU-24,S1,NA
+AHU-24,R7,NA
+AHU-24,Q1,NA
+AHU-24,T2-T3,NA
+AHU-24,P2,NA
+AHU-24,S3,NA
+AHU-24,CDY,NA
+AHU-24,MGS,NA
+AHU-25,1 Pancras,Enabled
+AHU-25,2 Pancras,Enabled
+AHU-25,3 Pancras,Enabled
+AHU-25,4 Pancras,Enabled
+AHU-25,B0 Accessway,NA
+AHU-25,WTS,Enabled
+AHU-25,S1,Enabled
+AHU-25,R7,Enabled
+AHU-25,Q1,Enabled
+AHU-25,T2-T3,Enabled
+AHU-25,P2,Enabled
+AHU-25,CDY,Enabled
+AHU-25,MGS,Enabled
+AHU-26,1 Pancras,Enabled
+AHU-26,2 Pancras,Enabled
+AHU-26,3 Pancras,Enabled
+AHU-26,4 Pancras,Enabled
+AHU-26,B0 Accessway,NA
+AHU-26,WTS,Enabled
+AHU-26,S1,Enabled
+AHU-26,R7,Enabled
+AHU-26,Q1,Enabled
+AHU-26,T2-T3,Enabled
+AHU-26,P2,Enabled
+AHU-26,CDY,Enabled
+AHU-26,MGS,Enabled
+AHU-27,1 Pancras,NA
+AHU-27,2 Pancras,NA
+AHU-27,3 Pancras,NA
+AHU-27,4 Pancras,NA
+AHU-27,B0 Accessway,NA
+AHU-27,WTS,NA
+AHU-27,S1,NA
+AHU-27,R7,NA
+AHU-27,Q1,NA
+AHU-27,T2-T3,NA
+AHU-27,P2,NA
+AHU-27,S3,NA
+AHU-27,CDY,NA
+AHU-27,MGS,NA
+AHU-28,1 Pancras,NA
+AHU-28,2 Pancras,NA
+AHU-28,3 Pancras,NA
+AHU-28,4 Pancras,NA
+AHU-28,B0 Accessway,NA
+AHU-28,WTS,NA
+AHU-28,S1,NA
+AHU-28,R7,NA
+AHU-28,Q1,NA
+AHU-28,T2-T3,NA
+AHU-28,P2,NA
+AHU-28,S3,NA
+AHU-28,CDY,NA
+AHU-28,MGS,NA
+AHU-29,1 Pancras,NA
+AHU-29,2 Pancras,NA
+AHU-29,3 Pancras,NA
+AHU-29,4 Pancras,NA
+AHU-29,B0 Accessway,NA
+AHU-29,WTS,NA
+AHU-29,S1,NA
+AHU-29,R7,NA
+AHU-29,Q1,NA
+AHU-29,T2-T3,NA
+AHU-29,P2,NA
+AHU-29,S3,NA
+AHU-29,CDY,NA
+AHU-29,MGS,NA
+AHU-30,1 Pancras,Backlog
+AHU-30,2 Pancras,NA
+AHU-30,3 Pancras,NA
+AHU-30,4 Pancras,NA
+AHU-30,B0 Accessway,NA
+AHU-30,WTS,NA
+AHU-30,S1,NA
+AHU-30,R7,Backlog
+AHU-30,Q1,NA
+AHU-30,T2-T3,NA
+AHU-30,P2,NA
+AHU-30,S3,NA
+AHU-30,CDY,NA
+AHU-30,MGS,NA
+AHU-31,1 Pancras,NA
+AHU-31,2 Pancras,NA
+AHU-31,3 Pancras,NA
+AHU-31,4 Pancras,NA
+AHU-31,B0 Accessway,NA
+AHU-31,WTS,NA
+AHU-31,S1,NA
+AHU-31,R7,NA
+AHU-31,Q1,NA
+AHU-31,T2-T3,NA
+AHU-31,P2,NA
+AHU-31,S3,NA
+AHU-31,CDY,NA
+AHU-31,MGS,NA
+AHU-32,1 Pancras,Backlog
+AHU-32,2 Pancras,Backlog
+AHU-32,3 Pancras,Backlog
+AHU-32,4 Pancras,Backlog
+AHU-32,B0 Accessway,NA
+AHU-32,WTS,Backlog
+AHU-32,S1,Backlog
+AHU-32,R7,Backlog
+AHU-32,Q1,Backlog
+AHU-32,T2-T3,Backlog
+AHU-32,P2,Backlog
+AHU-32,CDY,Backlog
+AHU-32,MGS,Backlog
+FCU-01,1 Pancras,NA
+FCU-01,2 Pancras,NA
+FCU-01,3 Pancras,NA
+FCU-01,4 Pancras,NA
+FCU-01,B0 Accessway,NA
+FCU-01,WTS,NA
+FCU-01,S1,NA
+FCU-01,R7,NA
+FCU-01,Q1,NA
+FCU-01,T2-T3,NA
+FCU-01,P2,NA
+FCU-01,S3,NA
+FCU-01,CDY,NA
+FCU-01,MGS,NA
+FCU-02,1 Pancras,NA
+FCU-02,2 Pancras,NA
+FCU-02,3 Pancras,NA
+FCU-02,4 Pancras,NA
+FCU-02,B0 Accessway,NA
+FCU-02,WTS,NA
+FCU-02,S1,NA
+FCU-02,R7,NA
+FCU-02,Q1,NA
+FCU-02,T2-T3,NA
+FCU-02,P2,NA
+FCU-02,S3,NA
+FCU-02,CDY,NA
+FCU-02,MGS,NA
+FCU-03,1 Pancras,NA
+FCU-03,2 Pancras,NA
+FCU-03,3 Pancras,NA
+FCU-03,4 Pancras,NA
+FCU-03,B0 Accessway,NA
+FCU-03,WTS,NA
+FCU-03,S1,NA
+FCU-03,R7,NA
+FCU-03,Q1,NA
+FCU-03,T2-T3,NA
+FCU-03,P2,NA
+FCU-03,S3,NA
+FCU-03,CDY,NA
+FCU-03,MGS,NA
+FCU-04,1 Pancras,NA
+FCU-04,2 Pancras,NA
+FCU-04,3 Pancras,NA
+FCU-04,4 Pancras,NA
+FCU-04,B0 Accessway,NA
+FCU-04,WTS,NA
+FCU-04,S1,NA
+FCU-04,R7,NA
+FCU-04,Q1,NA
+FCU-04,T2-T3,NA
+FCU-04,P2,NA
+FCU-04,S3,NA
+FCU-04,CDY,NA
+FCU-04,MGS,NA
+FCU-05,1 Pancras,NA
+FCU-05,2 Pancras,NA
+FCU-05,3 Pancras,NA
+FCU-05,4 Pancras,NA
+FCU-05,B0 Accessway,NA
+FCU-05,WTS,NA
+FCU-05,S1,NA
+FCU-05,R7,NA
+FCU-05,Q1,NA
+FCU-05,T2-T3,NA
+FCU-05,P2,NA
+FCU-05,S3,NA
+FCU-05,CDY,NA
+FCU-05,MGS,NA
+FCU-06,1 Pancras,NA
+FCU-06,2 Pancras,NA
+FCU-06,3 Pancras,NA
+FCU-06,4 Pancras,NA
+FCU-06,B0 Accessway,NA
+FCU-06,WTS,NA
+FCU-06,S1,NA
+FCU-06,R7,NA
+FCU-06,Q1,NA
+FCU-06,T2-T3,NA
+FCU-06,P2,NA
+FCU-06,S3,NA
+FCU-06,CDY,NA
+FCU-06,MGS,NA
+FCU-07,1 Pancras,NA
+FCU-07,2 Pancras,NA
+FCU-07,3 Pancras,NA
+FCU-07,4 Pancras,NA
+FCU-07,B0 Accessway,NA
+FCU-07,WTS,NA
+FCU-07,S1,NA
+FCU-07,R7,NA
+FCU-07,Q1,NA
+FCU-07,T2-T3,NA
+FCU-07,P2,NA
+FCU-07,S3,NA
+FCU-07,CDY,NA
+FCU-07,MGS,NA
+FCU-08,1 Pancras,NA
+FCU-08,2 Pancras,NA
+FCU-08,3 Pancras,NA
+FCU-08,4 Pancras,NA
+FCU-08,B0 Accessway,NA
+FCU-08,WTS,NA
+FCU-08,S1,NA
+FCU-08,R7,NA
+FCU-08,Q1,NA
+FCU-08,T2-T3,NA
+FCU-08,P2,NA
+FCU-08,S3,NA
+FCU-08,CDY,NA
+FCU-08,MGS,NA
+FCU-09,1 Pancras,NA
+FCU-09,2 Pancras,NA
+FCU-09,3 Pancras,NA
+FCU-09,4 Pancras,NA
+FCU-09,B0 Accessway,NA
+FCU-09,WTS,NA
+FCU-09,S1,NA
+FCU-09,R7,NA
+FCU-09,Q1,NA
+FCU-09,T2-T3,NA
+FCU-09,P2,NA
+FCU-09,S3,NA
+FCU-09,CDY,NA
+FCU-09,MGS,NA
+FCU-10,1 Pancras,NA
+FCU-10,2 Pancras,NA
+FCU-10,3 Pancras,NA
+FCU-10,4 Pancras,NA
+FCU-10,B0 Accessway,NA
+FCU-10,WTS,NA
+FCU-10,S1,NA
+FCU-10,R7,NA
+FCU-10,Q1,NA
+FCU-10,T2-T3,NA
+FCU-10,P2,NA
+FCU-10,S3,NA
+FCU-10,CDY,NA
+FCU-10,MGS,NA
+FCU-11,1 Pancras,NA
+FCU-11,2 Pancras,NA
+FCU-11,3 Pancras,NA
+FCU-11,4 Pancras,NA
+FCU-11,B0 Accessway,NA
+FCU-11,WTS,NA
+FCU-11,S1,NA
+FCU-11,R7,NA
+FCU-11,Q1,NA
+FCU-11,T2-T3,NA
+FCU-11,P2,NA
+FCU-11,S3,NA
+FCU-11,CDY,NA
+FCU-11,MGS,NA
+VAV-01,1 Pancras,NA
+VAV-01,2 Pancras,NA
+VAV-01,3 Pancras,NA
+VAV-01,4 Pancras,NA
+VAV-01,B0 Accessway,NA
+VAV-01,WTS,NA
+VAV-01,S1,NA
+VAV-01,R7,NA
+VAV-01,Q1,NA
+VAV-01,T2-T3,NA
+VAV-01,P2,NA
+VAV-01,S3,NA
+VAV-01,CDY,NA
+VAV-01,MGS,NA
+VAV-02,1 Pancras,NA
+VAV-02,2 Pancras,NA
+VAV-02,3 Pancras,NA
+VAV-02,4 Pancras,NA
+VAV-02,B0 Accessway,NA
+VAV-02,WTS,NA
+VAV-02,S1,NA
+VAV-02,R7,NA
+VAV-02,Q1,NA
+VAV-02,T2-T3,NA
+VAV-02,P2,NA
+VAV-02,S3,NA
+VAV-02,CDY,NA
+VAV-02,MGS,NA
+VAV-03,1 Pancras,NA
+VAV-03,2 Pancras,NA
+VAV-03,3 Pancras,NA
+VAV-03,4 Pancras,NA
+VAV-03,B0 Accessway,NA
+VAV-03,WTS,NA
+VAV-03,S1,NA
+VAV-03,R7,NA
+VAV-03,Q1,NA
+VAV-03,T2-T3,NA
+VAV-03,P2,NA
+VAV-03,S3,NA
+VAV-03,CDY,NA
+VAV-03,MGS,NA
+VAV-04,1 Pancras,NA
+VAV-04,2 Pancras,NA
+VAV-04,3 Pancras,NA
+VAV-04,4 Pancras,NA
+VAV-04,B0 Accessway,NA
+VAV-04,WTS,NA
+VAV-04,S1,NA
+VAV-04,R7,NA
+VAV-04,Q1,NA
+VAV-04,T2-T3,NA
+VAV-04,P2,NA
+VAV-04,S3,NA
+VAV-04,CDY,NA
+VAV-04,MGS,NA
+VAV-05,1 Pancras,NA
+VAV-05,2 Pancras,NA
+VAV-05,3 Pancras,NA
+VAV-05,4 Pancras,NA
+VAV-05,B0 Accessway,NA
+VAV-05,WTS,NA
+VAV-05,S1,NA
+VAV-05,R7,NA
+VAV-05,Q1,NA
+VAV-05,T2-T3,NA
+VAV-05,P2,NA
+VAV-05,S3,NA
+VAV-05,CDY,NA
+VAV-05,MGS,NA
+VAV-06,1 Pancras,NA
+VAV-06,2 Pancras,NA
+VAV-06,3 Pancras,NA
+VAV-06,4 Pancras,NA
+VAV-06,B0 Accessway,NA
+VAV-06,WTS,NA
+VAV-06,S1,NA
+VAV-06,R7,NA
+VAV-06,Q1,NA
+VAV-06,T2-T3,NA
+VAV-06,P2,NA
+VAV-06,S3,NA
+VAV-06,CDY,NA
+VAV-06,MGS,NA
+VAV-07,1 Pancras,NA
+VAV-07,2 Pancras,NA
+VAV-07,3 Pancras,NA
+VAV-07,4 Pancras,NA
+VAV-07,B0 Accessway,NA
+VAV-07,WTS,NA
+VAV-07,S1,NA
+VAV-07,R7,NA
+VAV-07,Q1,NA
+VAV-07,T2-T3,NA
+VAV-07,P2,NA
+VAV-07,S3,NA
+VAV-07,CDY,NA
+VAV-07,MGS,NA
+VAV-08,1 Pancras,NA
+VAV-08,2 Pancras,NA
+VAV-08,3 Pancras,NA
+VAV-08,4 Pancras,NA
+VAV-08,B0 Accessway,NA
+VAV-08,WTS,NA
+VAV-08,S1,NA
+VAV-08,R7,NA
+VAV-08,Q1,NA
+VAV-08,T2-T3,NA
+VAV-08,P2,NA
+VAV-08,S3,NA
+VAV-08,CDY,NA
+VAV-08,MGS,NA
+VAV-09,1 Pancras,NA
+VAV-09,2 Pancras,NA
+VAV-09,3 Pancras,NA
+VAV-09,4 Pancras,NA
+VAV-09,B0 Accessway,NA
+VAV-09,WTS,NA
+VAV-09,S1,NA
+VAV-09,R7,NA
+VAV-09,Q1,NA
+VAV-09,T2-T3,NA
+VAV-09,P2,NA
+VAV-09,S3,NA
+VAV-09,CDY,NA
+VAV-09,MGS,NA
+VAV-10,1 Pancras,NA
+VAV-10,2 Pancras,NA
+VAV-10,3 Pancras,NA
+VAV-10,4 Pancras,NA
+VAV-10,B0 Accessway,NA
+VAV-10,WTS,NA
+VAV-10,S1,NA
+VAV-10,R7,NA
+VAV-10,Q1,NA
+VAV-10,T2-T3,NA
+VAV-10,P2,NA
+VAV-10,S3,NA
+VAV-10,CDY,NA
+VAV-10,MGS,NA
+CH-01,1 Pancras,Blocked
+CH-01,2 Pancras,Enabled
+CH-01,3 Pancras,Enabled
+CH-01,4 Pancras,Enabled
+CH-01,B0 Accessway,NA
+CH-01,WTS,Enabled
+CH-01,S1,NA
+CH-01,R7,Enabled
+CH-01,Q1,Blocked
+CH-01,T2-T3,NA
+CH-01,P2,NA
+CH-01,CDY,NA
+CH-01,MGS,Blocked
+CH-02,1 Pancras,Backlog
+CH-02,2 Pancras,Backlog
+CH-02,3 Pancras,Backlog
+CH-02,4 Pancras,Backlog
+CH-02,B0 Accessway,NA
+CH-02,WTS,Backlog
+CH-02,S1,NA
+CH-02,R7,Backlog
+CH-02,Q1,Backlog
+CH-02,T2-T3,Backlog
+CH-02,P2,NA
+CH-02,CDY,NA
+CH-02,MGS,Backlog
+CH-03,1 Pancras,Backlog
+CH-03,2 Pancras,Backlog
+CH-03,3 Pancras,Backlog
+CH-03,4 Pancras,Backlog
+CH-03,B0 Accessway,NA
+CH-03,WTS,Backlog
+CH-03,S1,NA
+CH-03,R7,Backlog
+CH-03,Q1,Backlog
+CH-03,T2-T3,Backlog
+CH-03,P2,NA
+CH-03,CDY,NA
+CH-03,MGS,Backlog
+CH-04,1 Pancras,NA
+CH-04,2 Pancras,NA
+CH-04,3 Pancras,NA
+CH-04,4 Pancras,NA
+CH-04,B0 Accessway,NA
+CH-04,WTS,NA
+CH-04,S1,NA
+CH-04,R7,NA
+CH-04,Q1,NA
+CH-04,T2-T3,NA
+CH-04,P2,NA
+CH-04,S3,NA
+CH-04,CDY,NA
+CH-04,MGS,NA
+CH-05,1 Pancras,Backlog
+CH-05,2 Pancras,Backlog
+CH-05,3 Pancras,Backlog
+CH-05,4 Pancras,Backlog
+CH-05,B0 Accessway,NA
+CH-05,WTS,Backlog
+CH-05,S1,NA
+CH-05,R7,Backlog
+CH-05,Q1,Backlog
+CH-05,T2-T3,Backlog
+CH-05,P2,NA
+CH-05,CDY,NA
+CH-05,MGS,Backlog
+CH-06,1 Pancras,NA
+CH-06,2 Pancras,NA
+CH-06,3 Pancras,NA
+CH-06,4 Pancras,NA
+CH-06,B0 Accessway,NA
+CH-06,WTS,NA
+CH-06,S1,NA
+CH-06,R7,NA
+CH-06,Q1,NA
+CH-06,T2-T3,NA
+CH-06,P2,NA
+CH-06,S3,NA
+CH-06,CDY,NA
+CH-06,MGS,NA
+CH-07,1 Pancras,NA
+CH-07,2 Pancras,NA
+CH-07,3 Pancras,NA
+CH-07,4 Pancras,NA
+CH-07,B0 Accessway,NA
+CH-07,WTS,NA
+CH-07,S1,NA
+CH-07,R7,NA
+CH-07,Q1,NA
+CH-07,T2-T3,NA
+CH-07,P2,NA
+CH-07,S3,NA
+CH-07,CDY,NA
+CH-07,MGS,NA
+CH-08,1 Pancras,NA
+CH-08,2 Pancras,NA
+CH-08,3 Pancras,NA
+CH-08,4 Pancras,NA
+CH-08,B0 Accessway,NA
+CH-08,WTS,NA
+CH-08,S1,NA
+CH-08,R7,NA
+CH-08,Q1,NA
+CH-08,T2-T3,NA
+CH-08,P2,NA
+CH-08,S3,NA
+CH-08,CDY,NA
+CH-08,MGS,NA
+CH-09,1 Pancras,NA
+CH-09,2 Pancras,NA
+CH-09,3 Pancras,NA
+CH-09,4 Pancras,NA
+CH-09,B0 Accessway,NA
+CH-09,WTS,NA
+CH-09,S1,NA
+CH-09,P2,NA
+CH-09,CDY,NA
+CH-10,1 Pancras,Backlog
+CH-10,2 Pancras,Backlog
+CH-10,3 Pancras,Backlog
+CH-10,4 Pancras,Backlog
+CH-10,B0 Accessway,NA
+CH-10,WTS,Backlog
+CH-10,S1,NA
+CH-10,R7,Backlog
+CH-10,Q1,Backlog
+CH-10,T2-T3,Backlog
+CH-10,P2,NA
+CH-10,CDY,NA
+CH-10,MGS,Backlog
+CH-11,1 Pancras,Backlog
+CH-11,2 Pancras,Backlog
+CH-11,3 Pancras,Backlog
+CH-11,4 Pancras,Backlog
+CH-11,B0 Accessway,NA
+CH-11,WTS,Backlog
+CH-11,S1,NA
+CH-11,R7,Backlog
+CH-11,Q1,Backlog
+CH-11,T2-T3,Backlog
+CH-11,P2,NA
+CH-11,CDY,NA
+CH-11,MGS,Backlog
+CH-12,1 Pancras,NA
+CH-12,2 Pancras,NA
+CH-12,3 Pancras,NA
+CH-12,4 Pancras,NA
+CH-12,B0 Accessway,NA
+CH-12,WTS,NA
+CH-12,S1,NA
+CH-12,R7,NA
+CH-12,Q1,NA
+CH-12,T2-T3,NA
+CH-12,P2,NA
+CH-12,S3,NA
+CH-12,CDY,NA
+CH-12,MGS,NA
+CH-13,1 Pancras,Backlog
+CH-13,2 Pancras,Enabled
+CH-13,3 Pancras,Enabled
+CH-13,4 Pancras,Enabled
+CH-13,B0 Accessway,NA
+CH-13,WTS,Backlog
+CH-13,S1,NA
+CH-13,R7,Enabled
+CH-13,Q1,Backlog
+CH-13,T2-T3,Backlog
+CH-13,P2,NA
+CH-13,CDY,NA
+CH-13,MGS,Backlog
+CH-14,1 Pancras,Backlog
+CH-14,2 Pancras,Backlog
+CH-14,3 Pancras,Backlog
+CH-14,4 Pancras,Backlog
+CH-14,B0 Accessway,NA
+CH-14,WTS,Backlog
+CH-14,S1,NA
+CH-14,R7,Backlog
+CH-14,Q1,Backlog
+CH-14,T2-T3,Backlog
+CH-14,P2,NA
+CH-14,CDY,NA
+CH-14,MGS,Backlog
+CH-15,1 Pancras,Backlog
+CH-15,2 Pancras,Backlog
+CH-15,3 Pancras,Backlog
+CH-15,4 Pancras,Backlog
+CH-15,B0 Accessway,NA
+CH-15,WTS,Backlog
+CH-15,S1,NA
+CH-15,R7,Backlog
+CH-15,Q1,Backlog
+CH-15,T2-T3,Backlog
+CH-15,P2,NA
+CH-15,CDY,NA
+CH-15,MGS,Backlog
+CH-16,1 Pancras,NA
+CH-16,2 Pancras,NA
+CH-16,3 Pancras,NA
+CH-16,4 Pancras,NA
+CH-16,B0 Accessway,NA
+CH-16,WTS,NA
+CH-16,S1,NA
+CH-16,P2,NA
+CH-16,CDY,NA
+BLR-01,1 Pancras,NA
+BLR-01,2 Pancras,NA
+BLR-01,3 Pancras,NA
+BLR-01,4 Pancras,NA
+BLR-01,B0 Accessway,NA
+BLR-01,WTS,NA
+BLR-01,S1,NA
+BLR-01,R7,NA
+BLR-01,Q1,NA
+BLR-01,T2-T3,NA
+BLR-01,P2,NA
+BLR-01,S3,NA
+BLR-01,CDY,NA
+BLR-01,MGS,NA
+BLR-01,F&C,NA
+BLR-01,Estate,NA
+BLR-02,1 Pancras,NA
+BLR-02,2 Pancras,NA
+BLR-02,3 Pancras,NA
+BLR-02,4 Pancras,NA
+BLR-02,B0 Accessway,NA
+BLR-02,WTS,NA
+BLR-02,S1,NA
+BLR-02,R7,NA
+BLR-02,Q1,NA
+BLR-02,T2-T3,NA
+BLR-02,P2,NA
+BLR-02,S3,NA
+BLR-02,CDY,NA
+BLR-02,MGS,NA
+BLR-02,F&C,NA
+BLR-02,Estate,NA
+BLR-03,1 Pancras,NA
+BLR-03,2 Pancras,NA
+BLR-03,3 Pancras,NA
+BLR-03,4 Pancras,NA
+BLR-03,B0 Accessway,NA
+BLR-03,WTS,NA
+BLR-03,S1,NA
+BLR-03,R7,NA
+BLR-03,Q1,NA
+BLR-03,T2-T3,NA
+BLR-03,P2,NA
+BLR-03,S3,NA
+BLR-03,CDY,NA
+BLR-03,MGS,NA
+BLR-03,F&C,NA
+BLR-03,Estate,NA
+BLR-04,1 Pancras,NA
+BLR-04,2 Pancras,NA
+BLR-04,3 Pancras,NA
+BLR-04,4 Pancras,NA
+BLR-04,B0 Accessway,NA
+BLR-04,WTS,NA
+BLR-04,S1,NA
+BLR-04,R7,NA
+BLR-04,Q1,NA
+BLR-04,T2-T3,NA
+BLR-04,P2,NA
+BLR-04,S3,NA
+BLR-04,CDY,NA
+BLR-04,MGS,NA
+BLR-04,F&C,NA
+BLR-04,Estate,NA
+BLR-05,1 Pancras,NA
+BLR-05,2 Pancras,NA
+BLR-05,3 Pancras,NA
+BLR-05,4 Pancras,NA
+BLR-05,B0 Accessway,NA
+BLR-05,WTS,NA
+BLR-05,S1,NA
+BLR-05,R7,NA
+BLR-05,Q1,NA
+BLR-05,T2-T3,NA
+BLR-05,P2,NA
+BLR-05,S3,NA
+BLR-05,CDY,NA
+BLR-05,MGS,NA
+BLR-05,F&C,NA
+BLR-05,Estate,NA
+BLR-06,1 Pancras,NA
+BLR-06,2 Pancras,NA
+BLR-06,3 Pancras,NA
+BLR-06,4 Pancras,NA
+BLR-06,B0 Accessway,NA
+BLR-06,WTS,NA
+BLR-06,S1,NA
+BLR-06,R7,NA
+BLR-06,Q1,NA
+BLR-06,T2-T3,NA
+BLR-06,P2,NA
+BLR-06,S3,NA
+BLR-06,CDY,NA
+BLR-06,MGS,NA
+BLR-06,F&C,NA
+BLR-06,Estate,NA
+BLR-07,1 Pancras,NA
+BLR-07,2 Pancras,NA
+BLR-07,3 Pancras,NA
+BLR-07,4 Pancras,NA
+BLR-07,B0 Accessway,NA
+BLR-07,WTS,NA
+BLR-07,S1,NA
+BLR-07,R7,NA
+BLR-07,Q1,NA
+BLR-07,T2-T3,NA
+BLR-07,P2,NA
+BLR-07,S3,NA
+BLR-07,CDY,NA
+BLR-07,MGS,NA
+BLR-07,F&C,NA
+BLR-07,Estate,NA
+BLR-08,1 Pancras,NA
+BLR-08,2 Pancras,NA
+BLR-08,3 Pancras,NA
+BLR-08,4 Pancras,NA
+BLR-08,B0 Accessway,NA
+BLR-08,WTS,NA
+BLR-08,S1,NA
+BLR-08,R7,NA
+BLR-08,Q1,NA
+BLR-08,T2-T3,NA
+BLR-08,P2,NA
+BLR-08,S3,NA
+BLR-08,CDY,NA
+BLR-08,MGS,NA
+BLR-08,F&C,NA
+BLR-08,Estate,NA
+BLR-09,1 Pancras,NA
+BLR-09,2 Pancras,NA
+BLR-09,3 Pancras,NA
+BLR-09,4 Pancras,NA
+BLR-09,B0 Accessway,NA
+BLR-09,WTS,NA
+BLR-09,S1,NA
+BLR-09,R7,NA
+BLR-09,Q1,NA
+BLR-09,T2-T3,NA
+BLR-09,P2,NA
+BLR-09,S3,NA
+BLR-09,CDY,NA
+BLR-09,MGS,NA
+BLR-09,F&C,NA
+BLR-09,Estate,NA
+BLR-10,1 Pancras,NA
+BLR-10,2 Pancras,NA
+BLR-10,3 Pancras,NA
+BLR-10,4 Pancras,NA
+BLR-10,B0 Accessway,NA
+BLR-10,WTS,NA
+BLR-10,S1,NA
+BLR-10,R7,NA
+BLR-10,Q1,NA
+BLR-10,T2-T3,NA
+BLR-10,P2,NA
+BLR-10,S3,NA
+BLR-10,CDY,NA
+BLR-10,MGS,NA
+BLR-10,F&C,NA
+BLR-10,Estate,NA
+BLR-11,1 Pancras,NA
+BLR-11,2 Pancras,NA
+BLR-11,3 Pancras,NA
+BLR-11,4 Pancras,NA
+BLR-11,B0 Accessway,NA
+BLR-11,WTS,NA
+BLR-11,S1,NA
+BLR-11,R7,NA
+BLR-11,Q1,NA
+BLR-11,T2-T3,NA
+BLR-11,P2,NA
+BLR-11,S3,NA
+BLR-11,CDY,NA
+BLR-11,MGS,NA
+BLR-11,F&C,NA
+BLR-11,Estate,NA
+PMP-01,1 Pancras,Backlog
+PMP-01,2 Pancras,Backlog
+PMP-01,3 Pancras,Backlog
+PMP-01,4 Pancras,Backlog
+PMP-01,B0 Accessway,NA
+PMP-01,WTS,Backlog
+PMP-01,S1,Backlog
+PMP-01,R7,Backlog
+PMP-01,Q1,Backlog
+PMP-01,T2-T3,Backlog
+PMP-01,P2,Backlog
+PMP-01,S3,Backlog
+PMP-01,CDY,Backlog
+PMP-01,MGS,Backlog
+PMP-02,1 Pancras,Backlog
+PMP-02,2 Pancras,Backlog
+PMP-02,3 Pancras,Backlog
+PMP-02,4 Pancras,Backlog
+PMP-02,B0 Accessway,NA
+PMP-02,WTS,Backlog
+PMP-02,S1,Backlog
+PMP-02,R7,Backlog
+PMP-02,Q1,Backlog
+PMP-02,T2-T3,Backlog
+PMP-02,P2,Backlog
+PMP-02,S3,Backlog
+PMP-02,CDY,Backlog
+PMP-02,MGS,Backlog
+PMP-03,1 Pancras,Backlog
+PMP-03,2 Pancras,Backlog
+PMP-03,3 Pancras,Backlog
+PMP-03,4 Pancras,Backlog
+PMP-03,B0 Accessway,NA
+PMP-03,WTS,Backlog
+PMP-03,S1,Backlog
+PMP-03,R7,Backlog
+PMP-03,Q1,Backlog
+PMP-03,T2-T3,Backlog
+PMP-03,P2,Backlog
+PMP-03,S3,Backlog
+PMP-03,CDY,Backlog
+PMP-03,MGS,Backlog
+PMP-04,1 Pancras,NA
+PMP-04,2 Pancras,NA
+PMP-04,3 Pancras,NA
+PMP-04,4 Pancras,NA
+PMP-04,B0 Accessway,NA
+PMP-04,WTS,NA
+PMP-04,S1,NA
+PMP-04,R7,NA
+PMP-04,Q1,NA
+PMP-04,T2-T3,NA
+PMP-04,P2,NA
+PMP-04,S3,NA
+PMP-04,CDY,NA
+PMP-04,MGS,NA
+PMP-05,1 Pancras,NA
+PMP-05,2 Pancras,NA
+PMP-05,3 Pancras,NA
+PMP-05,4 Pancras,NA
+PMP-05,B0 Accessway,NA
+PMP-05,WTS,NA
+PMP-05,S1,NA
+PMP-05,R7,NA
+PMP-05,Q1,NA
+PMP-05,T2-T3,NA
+PMP-05,P2,NA
+PMP-05,S3,NA
+PMP-05,CDY,NA
+PMP-05,MGS,NA
+PMP-06,1 Pancras,NA
+PMP-06,2 Pancras,NA
+PMP-06,3 Pancras,NA
+PMP-06,4 Pancras,NA
+PMP-06,B0 Accessway,NA
+PMP-06,WTS,NA
+PMP-06,S1,NA
+PMP-06,R7,NA
+PMP-06,Q1,NA
+PMP-06,T2-T3,NA
+PMP-06,P2,NA
+PMP-06,S3,NA
+PMP-06,CDY,NA
+PMP-06,MGS,NA
+PMP-07,1 Pancras,NA
+PMP-07,2 Pancras,NA
+PMP-07,3 Pancras,NA
+PMP-07,4 Pancras,NA
+PMP-07,B0 Accessway,NA
+PMP-07,WTS,NA
+PMP-07,S1,NA
+PMP-07,R7,NA
+PMP-07,Q1,NA
+PMP-07,T2-T3,NA
+PMP-07,P2,NA
+PMP-07,S3,NA
+PMP-07,CDY,NA
+PMP-07,MGS,NA
+PMP-08,1 Pancras,Backlog
+PMP-08,2 Pancras,Enabled
+PMP-08,3 Pancras,Backlog
+PMP-08,4 Pancras,Backlog
+PMP-08,B0 Accessway,NA
+PMP-08,WTS,Backlog
+PMP-08,S1,Backlog
+PMP-08,R7,Backlog
+PMP-08,Q1,Backlog
+PMP-08,T2-T3,Backlog
+PMP-08,P2,Backlog
+PMP-08,S3,Backlog
+PMP-08,CDY,Backlog
+PMP-08,MGS,Backlog
+PMP-09,1 Pancras,Backlog
+PMP-09,2 Pancras,Backlog
+PMP-09,3 Pancras,Backlog
+PMP-09,4 Pancras,Backlog
+PMP-09,B0 Accessway,NA
+PMP-09,WTS,Backlog
+PMP-09,S1,Backlog
+PMP-09,R7,Backlog
+PMP-09,Q1,Backlog
+PMP-09,T2-T3,Backlog
+PMP-09,P2,Backlog
+PMP-09,S3,Backlog
+PMP-09,CDY,Backlog
+PMP-09,MGS,Backlog
+CT-01,1 Pancras,NA
+CT-01,2 Pancras,NA
+CT-01,3 Pancras,NA
+CT-01,4 Pancras,NA
+CT-01,B0 Accessway,NA
+CT-01,WTS,NA
+CT-01,S1,NA
+CT-01,R7,NA
+CT-01,Q1,NA
+CT-01,T2-T3,NA
+CT-01,P2,NA
+CT-01,S3,NA
+CT-01,CDY,NA
+CT-01,MGS,NA
+CT-01,F&C,NA
+CT-01,Estate,NA
+CT-02,1 Pancras,NA
+CT-02,2 Pancras,NA
+CT-02,3 Pancras,NA
+CT-02,4 Pancras,NA
+CT-02,B0 Accessway,NA
+CT-02,WTS,NA
+CT-02,S1,NA
+CT-02,R7,NA
+CT-02,Q1,NA
+CT-02,T2-T3,NA
+CT-02,P2,NA
+CT-02,S3,NA
+CT-02,CDY,NA
+CT-02,MGS,NA
+CT-02,F&C,NA
+CT-02,Estate,NA
+CT-03,1 Pancras,NA
+CT-03,2 Pancras,NA
+CT-03,3 Pancras,NA
+CT-03,4 Pancras,NA
+CT-03,B0 Accessway,NA
+CT-03,WTS,NA
+CT-03,S1,NA
+CT-03,R7,NA
+CT-03,Q1,NA
+CT-03,T2-T3,NA
+CT-03,P2,NA
+CT-03,S3,NA
+CT-03,CDY,NA
+CT-03,MGS,NA
+CT-03,F&C,NA
+CT-03,Estate,NA
+CT-04,1 Pancras,NA
+CT-04,2 Pancras,NA
+CT-04,3 Pancras,NA
+CT-04,4 Pancras,NA
+CT-04,B0 Accessway,NA
+CT-04,WTS,NA
+CT-04,S1,NA
+CT-04,R7,NA
+CT-04,Q1,NA
+CT-04,T2-T3,NA
+CT-04,P2,NA
+CT-04,S3,NA
+CT-04,CDY,NA
+CT-04,MGS,NA
+CT-04,F&C,NA
+CT-04,Estate,NA
+CT-05,1 Pancras,NA
+CT-05,2 Pancras,NA
+CT-05,3 Pancras,NA
+CT-05,4 Pancras,NA
+CT-05,B0 Accessway,NA
+CT-05,WTS,NA
+CT-05,S1,NA
+CT-05,R7,NA
+CT-05,Q1,NA
+CT-05,T2-T3,NA
+CT-05,P2,NA
+CT-05,S3,NA
+CT-05,CDY,NA
+CT-05,MGS,NA
+CT-05,F&C,NA
+CT-05,Estate,NA
+CT-06,1 Pancras,NA
+CT-06,2 Pancras,NA
+CT-06,3 Pancras,NA
+CT-06,4 Pancras,NA
+CT-06,B0 Accessway,NA
+CT-06,WTS,NA
+CT-06,S1,NA
+CT-06,R7,NA
+CT-06,Q1,NA
+CT-06,T2-T3,NA
+CT-06,P2,NA
+CT-06,S3,NA
+CT-06,CDY,NA
+CT-06,MGS,NA
+CT-06,F&C,NA
+CT-06,Estate,NA
+CT-07,1 Pancras,NA
+CT-07,2 Pancras,NA
+CT-07,3 Pancras,NA
+CT-07,4 Pancras,NA
+CT-07,B0 Accessway,NA
+CT-07,WTS,NA
+CT-07,S1,NA
+CT-07,R7,NA
+CT-07,Q1,NA
+CT-07,T2-T3,NA
+CT-07,P2,NA
+CT-07,S3,NA
+CT-07,CDY,NA
+CT-07,MGS,NA
+CT-07,F&C,NA
+CT-07,Estate,NA
+CT-08,1 Pancras,NA
+CT-08,2 Pancras,NA
+CT-08,3 Pancras,NA
+CT-08,4 Pancras,NA
+CT-08,B0 Accessway,NA
+CT-08,WTS,NA
+CT-08,S1,NA
+CT-08,R7,NA
+CT-08,Q1,NA
+CT-08,T2-T3,NA
+CT-08,P2,NA
+CT-08,S3,NA
+CT-08,CDY,NA
+CT-08,MGS,NA
+CT-08,F&C,NA
+CT-08,Estate,NA
+MTR-01,1 Pancras,Blocked
+MTR-01,2 Pancras,Blocked
+MTR-01,3 Pancras,Blocked
+MTR-01,4 Pancras,Blocked
+MTR-01,B0 Accessway,NA
+MTR-01,WTS,Blocked
+MTR-01,S1,Blocked
+MTR-01,R7,Blocked
+MTR-01,Q1,Blocked
+MTR-01,T2-T3,Blocked
+MTR-01,P2,Blocked
+MTR-01,S3,Blocked
+MTR-01,CDY,Blocked
+MTR-01,MGS,Blocked
+MTR-02,1 Pancras,Blocked
+MTR-02,2 Pancras,Blocked
+MTR-02,3 Pancras,Blocked
+MTR-02,4 Pancras,Blocked
+MTR-02,B0 Accessway,NA
+MTR-02,WTS,Blocked
+MTR-02,S1,Blocked
+MTR-02,R7,Blocked
+MTR-02,Q1,Blocked
+MTR-02,T2-T3,Blocked
+MTR-02,P2,Blocked
+MTR-02,S3,Blocked
+MTR-02,CDY,Blocked
+MTR-02,MGS,Blocked
+MTR-03,1 Pancras,Blocked
+MTR-03,2 Pancras,Blocked
+MTR-03,3 Pancras,Blocked
+MTR-03,4 Pancras,Blocked
+MTR-03,B0 Accessway,NA
+MTR-03,WTS,Blocked
+MTR-03,S1,Blocked
+MTR-03,R7,Blocked
+MTR-03,Q1,Blocked
+MTR-03,T2-T3,Blocked
+MTR-03,P2,Blocked
+MTR-03,S3,Blocked
+MTR-03,CDY,Blocked
+MTR-03,MGS,Blocked
+MTR-04,1 Pancras,Blocked
+MTR-04,2 Pancras,Blocked
+MTR-04,3 Pancras,Blocked
+MTR-04,4 Pancras,Blocked
+MTR-04,B0 Accessway,NA
+MTR-04,WTS,Blocked
+MTR-04,S1,Blocked
+MTR-04,R7,Blocked
+MTR-04,Q1,Blocked
+MTR-04,T2-T3,Blocked
+MTR-04,P2,Blocked
+MTR-04,S3,Blocked
+MTR-04,CDY,Blocked
+MTR-04,MGS,Blocked
+MTR-05,1 Pancras,Blocked
+MTR-05,2 Pancras,Blocked
+MTR-05,3 Pancras,Blocked
+MTR-05,4 Pancras,Blocked
+MTR-05,B0 Accessway,NA
+MTR-05,WTS,Blocked
+MTR-05,S1,Blocked
+MTR-05,R7,Blocked
+MTR-05,Q1,Blocked
+MTR-05,T2-T3,Blocked
+MTR-05,P2,Blocked
+MTR-05,S3,Blocked
+MTR-05,CDY,Blocked
+MTR-05,MGS,Blocked
+MTR-06,1 Pancras,Blocked
+MTR-06,2 Pancras,Blocked
+MTR-06,3 Pancras,Blocked
+MTR-06,4 Pancras,Blocked
+MTR-06,B0 Accessway,NA
+MTR-06,WTS,Blocked
+MTR-06,S1,Blocked
+MTR-06,R7,Blocked
+MTR-06,Q1,Blocked
+MTR-06,T2-T3,Blocked
+MTR-06,P2,Blocked
+MTR-06,S3,Blocked
+MTR-06,CDY,Blocked
+MTR-06,MGS,Blocked
+MTR-07,1 Pancras,Blocked
+MTR-07,2 Pancras,Blocked
+MTR-07,3 Pancras,Blocked
+MTR-07,4 Pancras,Blocked
+MTR-07,B0 Accessway,NA
+MTR-07,WTS,Blocked
+MTR-07,S1,Blocked
+MTR-07,R7,Blocked
+MTR-07,Q1,Blocked
+MTR-07,T2-T3,Blocked
+MTR-07,P2,Blocked
+MTR-07,S3,Blocked
+MTR-07,CDY,Blocked
+MTR-07,MGS,Blocked
+MTR-08,1 Pancras,Blocked
+MTR-08,2 Pancras,Blocked
+MTR-08,3 Pancras,Blocked
+MTR-08,4 Pancras,Blocked
+MTR-08,B0 Accessway,NA
+MTR-08,WTS,Blocked
+MTR-08,S1,Blocked
+MTR-08,R7,Blocked
+MTR-08,Q1,Blocked
+MTR-08,T2-T3,Blocked
+MTR-08,P2,Blocked
+MTR-08,S3,Blocked
+MTR-08,CDY,Blocked
+MTR-08,MGS,Blocked
+BMS-01,1 Pancras,Backlog
+BMS-01,2 Pancras,Backlog
+BMS-01,3 Pancras,Backlog
+BMS-01,4 Pancras,Backlog
+BMS-01,B0 Accessway,NA
+BMS-01,WTS,Backlog
+BMS-01,S1,Backlog
+BMS-01,R7,Backlog
+BMS-01,Q1,Backlog
+BMS-01,T2-T3,Backlog
+BMS-01,P2,Backlog
+BMS-01,S3,Backlog
+BMS-01,CDY,Backlog
+BMS-01,MGS,Backlog
+BMS-02,1 Pancras,Backlog
+BMS-02,2 Pancras,Backlog
+BMS-02,3 Pancras,Backlog
+BMS-02,4 Pancras,Backlog
+BMS-02,B0 Accessway,NA
+BMS-02,WTS,Backlog
+BMS-02,S1,Backlog
+BMS-02,R7,Backlog
+BMS-02,Q1,Backlog
+BMS-02,T2-T3,Backlog
+BMS-02,P2,Backlog
+BMS-02,S3,Backlog
+BMS-02,CDY,Backlog
+BMS-02,MGS,Backlog
+BMS-03,1 Pancras,NA
+BMS-03,2 Pancras,NA
+BMS-03,3 Pancras,NA
+BMS-03,4 Pancras,NA
+BMS-03,B0 Accessway,NA
+BMS-03,WTS,NA
+BMS-03,S1,NA
+BMS-03,R7,NA
+BMS-03,Q1,NA
+BMS-03,T2-T3,NA
+BMS-03,P2,NA
+BMS-03,S3,NA
+BMS-03,CDY,NA
+BMS-03,MGS,NA
+BMS-04,1 Pancras,NA
+BMS-04,2 Pancras,NA
+BMS-04,3 Pancras,NA
+BMS-04,4 Pancras,NA
+BMS-04,B0 Accessway,NA
+BMS-04,WTS,NA
+BMS-04,S1,NA
+BMS-04,R7,NA
+BMS-04,Q1,NA
+BMS-04,T2-T3,NA
+BMS-04,P2,NA
+BMS-04,S3,NA
+BMS-04,CDY,NA
+BMS-04,MGS,NA
+BMS-05,1 Pancras,Backlog
+BMS-05,2 Pancras,Backlog
+BMS-05,3 Pancras,Backlog
+BMS-05,4 Pancras,Backlog
+BMS-05,B0 Accessway,NA
+BMS-05,WTS,Backlog
+BMS-05,S1,Backlog
+BMS-05,R7,Backlog
+BMS-05,Q1,Backlog
+BMS-05,T2-T3,Backlog
+BMS-05,P2,Backlog
+BMS-05,S3,Backlog
+BMS-05,CDY,Backlog
+BMS-05,MGS,Backlog
+BMS-06,1 Pancras,NA
+BMS-06,2 Pancras,NA
+BMS-06,3 Pancras,NA
+BMS-06,4 Pancras,NA
+BMS-06,B0 Accessway,NA
+BMS-06,WTS,NA
+BCW-01,1 Pancras,Backlog
+BCW-01,2 Pancras,Backlog
+BCW-01,3 Pancras,Backlog
+BCW-01,4 Pancras,Backlog
+BCW-01,B0 Accessway,NA
+BCW-01,WTS,Backlog
+BCW-01,S1,Backlog
+BCW-01,R7,Backlog
+BCW-01,Q1,Backlog
+BCW-01,T2-T3,Backlog
+BCW-01,P2,Backlog
+BCW-01,S3,Backlog
+BCW-01,CDY,Backlog
+BCW-01,MGS,Backlog
+BCW-02,1 Pancras,Backlog
+BCW-02,2 Pancras,Backlog
+BCW-02,3 Pancras,Backlog
+BCW-02,4 Pancras,Backlog
+BCW-02,B0 Accessway,NA
+BCW-02,WTS,Backlog
+BCW-02,S1,Backlog
+BCW-02,R7,Backlog
+BCW-02,Q1,Backlog
+BCW-02,T2-T3,Backlog
+BCW-02,P2,Backlog
+BCW-02,S3,Backlog
+BCW-02,CDY,Backlog
+BCW-02,MGS,Backlog
+BCW-03,1 Pancras,NA
+BCW-03,2 Pancras,NA
+BCW-03,3 Pancras,NA
+BCW-03,4 Pancras,NA
+BCW-03,B0 Accessway,NA
+BCW-03,WTS,NA
+BCW-03,S1,NA
+BCW-03,R7,NA
+BCW-03,Q1,NA
+BCW-03,T2-T3,NA
+BCW-03,P2,NA
+BCW-03,S3,NA
+BCW-03,CDY,NA
+BCW-03,MGS,NA
+BCW-04,1 Pancras,NA
+BCW-04,2 Pancras,NA
+BCW-04,3 Pancras,NA
+BCW-04,4 Pancras,NA
+BCW-04,B0 Accessway,NA
+BCW-04,WTS,NA
+BCW-04,S1,NA
+BCW-04,R7,NA
+BCW-04,Q1,NA
+BCW-04,T2-T3,NA
+BCW-04,P2,NA
+BCW-04,S3,NA
+BCW-04,CDY,NA
+BCW-04,MGS,NA
+BCW-05,1 Pancras,Backlog
+BCW-05,2 Pancras,Backlog
+BCW-05,3 Pancras,Backlog
+BCW-05,4 Pancras,Backlog
+BCW-05,B0 Accessway,NA
+BCW-05,WTS,Backlog
+BCW-05,S1,Backlog
+BCW-05,R7,Backlog
+BCW-05,Q1,Backlog
+BCW-05,T2-T3,Backlog
+BCW-05,P2,Backlog
+BCW-05,S3,Backlog
+BCW-05,CDY,Backlog
+BCW-05,MGS,Backlog
+BCW-06,1 Pancras,NA
+BCW-06,2 Pancras,NA
+BCW-06,3 Pancras,NA
+BCW-06,4 Pancras,NA
+BCW-06,B0 Accessway,NA
+BCW-06,WTS,NA
+BCW-06,S1,NA
+BCW-06,R7,NA
+BCW-06,Q1,NA
+BCW-06,T2-T3,NA
+BCW-06,P2,NA
+BCW-06,S3,NA
+BCW-06,CDY,NA
+BCW-06,MGS,NA
+BCW-07,1 Pancras,NA
+BCW-07,2 Pancras,NA
+BCW-07,3 Pancras,NA
+BCW-07,4 Pancras,NA
+BCW-07,B0 Accessway,NA
+BCW-07,WTS,NA
+BCW-07,S1,NA
+BCW-07,R7,NA
+BCW-07,Q1,NA
+BCW-07,T2-T3,NA
+BCW-07,P2,NA
+BCW-07,S3,NA
+BCW-07,CDY,NA
+BCW-07,MGS,NA
+BCW-08,1 Pancras,NA
+BCW-08,2 Pancras,NA
+BCW-08,3 Pancras,NA
+BCW-08,4 Pancras,NA
+BCW-08,B0 Accessway,NA
+BCW-08,WTS,NA
+BCW-08,S1,NA
+BCW-08,R7,NA
+BCW-08,Q1,NA
+BCW-08,T2-T3,NA
+BCW-08,P2,NA
+BCW-08,S3,NA
+BCW-08,CDY,NA
+BCW-08,MGS,NA
+BCW-09,1 Pancras,Backlog
+BCW-09,2 Pancras,Backlog
+BCW-09,3 Pancras,Backlog
+BCW-09,4 Pancras,Backlog
+BCW-09,B0 Accessway,NA
+BCW-09,WTS,Backlog
+BCW-09,S1,Backlog
+BCW-09,R7,Backlog
+BCW-09,Q1,Backlog
+BCW-09,T2-T3,Backlog
+BCW-09,P2,Backlog
+BCW-09,S3,Backlog
+BCW-09,CDY,Backlog
+BCW-09,MGS,Backlog
+BCW-10,1 Pancras,Backlog
+BCW-10,2 Pancras,Backlog
+BCW-10,3 Pancras,Backlog
+BCW-10,4 Pancras,Backlog
+BCW-10,B0 Accessway,NA
+BCW-10,WTS,Backlog
+BCW-10,S1,Backlog
+BCW-10,R7,Backlog
+BCW-10,Q1,Backlog
+BCW-10,T2-T3,Backlog
+BCW-10,P2,Backlog
+BCW-10,S3,Backlog
+BCW-10,CDY,Backlog
+BCW-10,MGS,Backlog
+BCW-11,1 Pancras,Backlog
+BCW-11,2 Pancras,Backlog
+BCW-11,3 Pancras,Backlog
+BCW-11,4 Pancras,Backlog
+BCW-11,B0 Accessway,NA
+BCW-11,WTS,Backlog
+BCW-11,S1,Backlog
+BCW-11,R7,Backlog
+BCW-11,Q1,Backlog
+BCW-11,T2-T3,Backlog
+BCW-11,P2,Backlog
+BCW-11,S3,Backlog
+BCW-11,CDY,Backlog
+BCW-11,MGS,Backlog
+FA-01,1 Pancras,NA
+FA-01,2 Pancras,NA
+FA-01,3 Pancras,NA
+FA-01,4 Pancras,NA
+FA-01,B0 Accessway,NA
+FA-01,WTS,NA
+FA-01,S1,NA
+FA-01,R7,NA
+FA-01,Q1,NA
+FA-01,T2-T3,NA
+FA-01,P2,NA
+FA-01,S3,Backlog
+FA-01,CDY,NA
+FA-01,MGS,NA
+FA-01,F&C,NA
+FA-01,Estate,NA
+FA-02,1 Pancras,NA
+FA-02,2 Pancras,NA
+FA-02,3 Pancras,NA
+FA-02,4 Pancras,NA
+FA-02,B0 Accessway,NA
+FA-02,WTS,NA
+FA-02,S1,NA
+FA-02,R7,NA
+FA-02,Q1,NA
+FA-02,T2-T3,NA
+FA-02,P2,NA
+FA-02,S3,NA
+FA-02,CDY,NA
+FA-02,MGS,NA
+FA-02,F&C,NA
+FA-02,Estate,NA
+FA-03,1 Pancras,NA
+FA-03,2 Pancras,NA
+FA-03,3 Pancras,NA
+FA-03,4 Pancras,NA
+FA-03,B0 Accessway,NA
+FA-03,WTS,NA
+FA-03,S1,NA
+FA-03,R7,NA
+FA-03,Q1,NA
+FA-03,T2-T3,NA
+FA-03,P2,NA
+FA-03,S3,NA
+FA-03,CDY,NA
+FA-03,MGS,NA
+FA-03,F&C,NA
+FA-03,Estate,NA
+FA-04,1 Pancras,NA
+FA-04,2 Pancras,NA
+FA-04,3 Pancras,NA
+FA-04,4 Pancras,NA
+FA-04,B0 Accessway,NA
+FA-04,WTS,NA
+FA-04,S1,NA
+FA-04,R7,NA
+FA-04,Q1,NA
+FA-04,T2-T3,NA
+FA-04,P2,NA
+FA-04,S3,NA
+FA-04,CDY,NA
+FA-04,MGS,NA
+FA-04,F&C,NA
+FA-04,Estate,NA
+FA-05,1 Pancras,Backlog
+FA-05,2 Pancras,Enabled
+FA-05,3 Pancras,Backlog
+FA-05,4 Pancras,Backlog
+FA-05,B0 Accessway,NA
+FA-05,WTS,Backlog
+FA-05,S1,Backlog
+FA-05,R7,Backlog
+FA-05,Q1,Backlog
+FA-05,T2-T3,Backlog
+FA-05,P2,Backlog
+FA-05,S3,Backlog
+FA-05,CDY,Backlog
+FA-05,MGS,Backlog
+FA-05,F&C,Backlog
+GEN-01,1 Pancras,NA
+GEN-01,2 Pancras,NA
+GEN-01,3 Pancras,NA
+GEN-01,4 Pancras,NA
+GEN-01,B0 Accessway,NA
+GEN-01,WTS,NA
+GEN-01,S1,NA
+GEN-01,R7,NA
+GEN-01,Q1,NA
+GEN-01,T2-T3,NA
+GEN-01,P2,NA
+GEN-01,S3,NA
+GEN-01,CDY,Backlog
+GEN-01,MGS,NA
+GEN-01,F&C,NA
+GEN-01,Estate,NA
+GEN-02,1 Pancras,NA
+GEN-02,2 Pancras,NA
+GEN-02,3 Pancras,NA
+GEN-02,4 Pancras,NA
+GEN-02,B0 Accessway,NA
+GEN-02,WTS,NA
+GEN-02,S1,NA
+GEN-02,R7,NA
+GEN-02,Q1,NA
+GEN-02,T2-T3,NA
+GEN-02,P2,NA
+GEN-02,S3,NA
+GEN-02,MGS,NA
+GEN-02,F&C,NA
+GEN-02,Estate,NA
+GEN-03,1 Pancras,NA
+GEN-03,2 Pancras,NA
+GEN-03,3 Pancras,NA
+GEN-03,4 Pancras,NA
+GEN-03,B0 Accessway,NA
+GEN-03,WTS,NA
+GEN-03,S1,NA
+GEN-03,R7,NA
+GEN-03,Q1,NA
+GEN-03,T2-T3,NA
+GEN-03,P2,NA
+GEN-03,S3,NA
+GEN-03,MGS,NA
+GEN-03,F&C,NA
+GEN-03,Estate,NA
+GEN-04,1 Pancras,NA
+GEN-04,2 Pancras,NA
+GEN-04,3 Pancras,NA
+GEN-04,4 Pancras,NA
+GEN-04,B0 Accessway,NA
+GEN-04,WTS,NA
+GEN-04,S1,NA
+GEN-04,R7,NA
+GEN-04,Q1,NA
+GEN-04,T2-T3,NA
+GEN-04,P2,NA
+GEN-04,S3,NA
+GEN-04,MGS,NA
+GEN-04,F&C,NA
+GEN-04,Estate,NA
+GEN-05,1 Pancras,NA
+GEN-05,2 Pancras,NA
+GEN-05,3 Pancras,NA
+GEN-05,4 Pancras,NA
+GEN-05,B0 Accessway,NA
+GEN-05,WTS,NA
+GEN-05,S1,NA
+GEN-05,R7,NA
+GEN-05,Q1,NA
+GEN-05,T2-T3,NA
+GEN-05,P2,NA
+GEN-05,S3,NA
+GEN-05,MGS,NA
+GEN-05,F&C,NA
+GEN-05,Estate,NA
+GEN-06,1 Pancras,NA
+GEN-06,2 Pancras,NA
+GEN-06,3 Pancras,NA
+GEN-06,4 Pancras,NA
+GEN-06,B0 Accessway,NA
+GEN-06,WTS,NA
+GEN-06,S1,NA
+GEN-06,R7,NA
+GEN-06,Q1,NA
+GEN-06,T2-T3,NA
+GEN-06,P2,NA
+GEN-06,S3,NA
+GEN-06,MGS,NA
+GEN-06,F&C,NA
+GEN-06,Estate,NA
+GEN-07,1 Pancras,Backlog
+GEN-07,2 Pancras,Backlog
+GEN-07,3 Pancras,Backlog
+GEN-07,4 Pancras,Backlog
+GEN-07,B0 Accessway,NA
+GEN-07,WTS,Backlog
+GEN-07,S1,Backlog
+GEN-07,R7,Backlog
+GEN-07,Q1,Backlog
+GEN-07,T2-T3,Backlog
+GEN-07,P2,Backlog
+GEN-07,S3,Backlog
+GEN-07,CDY,Backlog
+GEN-07,MGS,Backlog
+GEN-07,F&C,NA
+GEN-07,Estate,NA
+GEN-08,1 Pancras,NA
+GEN-08,2 Pancras,NA
+GEN-08,3 Pancras,NA
+GEN-08,4 Pancras,NA
+GEN-08,B0 Accessway,NA
+GEN-08,WTS,NA
+GEN-08,S1,NA
+GEN-08,R7,NA
+GEN-08,Q1,NA
+GEN-08,T2-T3,NA
+GEN-08,P2,NA
+GEN-08,S3,NA
+GEN-08,MGS,NA
+GEN-08,F&C,NA
+GEN-08,Estate,NA
+GEN-09,1 Pancras,NA
+GEN-09,2 Pancras,NA
+GEN-09,3 Pancras,NA
+GEN-09,4 Pancras,NA
+GEN-09,B0 Accessway,NA
+GEN-09,WTS,NA
+GEN-09,S1,NA
+GEN-09,R7,NA
+GEN-09,Q1,NA
+GEN-09,T2-T3,NA
+GEN-09,P2,NA
+GEN-09,S3,NA
+GEN-09,MGS,NA
+GEN-09,F&C,NA
+GEN-09,Estate,NA
+GEN-10,1 Pancras,NA
+GEN-10,2 Pancras,NA
+GEN-10,3 Pancras,NA
+GEN-10,4 Pancras,NA
+GEN-10,B0 Accessway,NA
+GEN-10,WTS,NA
+GEN-10,S1,NA
+GEN-10,R7,NA
+GEN-10,Q1,NA
+GEN-10,T2-T3,NA
+GEN-10,P2,NA
+GEN-10,S3,NA
+GEN-10,MGS,NA
+GEN-10,F&C,NA
+GEN-10,Estate,NA
+ACB-01,1 Pancras,Backlog
+ACB-01,2 Pancras,Backlog
+ACB-01,3 Pancras,Backlog
+ACB-01,4 Pancras,Backlog
+ACB-01,B0 Accessway,NA
+ACB-01,WTS,Backlog
+ACB-01,S1,Backlog
+ACB-01,R7,Backlog
+ACB-01,Q1,Backlog
+ACB-01,T2-T3,Backlog
+ACB-01,P2,Backlog
+ACB-01,S3,Backlog
+ACB-01,CDY,Backlog
+ACB-01,MGS,Backlog
+ACB-02,1 Pancras,Backlog
+ACB-02,2 Pancras,Backlog
+ACB-02,3 Pancras,Backlog
+ACB-02,4 Pancras,Backlog
+ACB-02,B0 Accessway,NA
+ACB-02,WTS,Backlog
+ACB-02,S1,Backlog
+ACB-02,R7,Backlog
+ACB-02,Q1,Backlog
+ACB-02,T2-T3,Backlog
+ACB-02,P2,Backlog
+ACB-02,S3,Backlog
+ACB-02,CDY,Backlog
+ACB-02,MGS,Backlog
+ACB-03,1 Pancras,NA
+ACB-03,2 Pancras,NA
+ACB-03,3 Pancras,NA
+ACB-03,4 Pancras,NA
+ACB-03,B0 Accessway,NA
+ACB-03,WTS,NA
+ACB-04,1 Pancras,NA
+ACB-04,2 Pancras,NA
+ACB-04,3 Pancras,NA
+ACB-04,4 Pancras,NA
+ACB-04,B0 Accessway,NA
+ACB-04,WTS,NA
+ACB-05,1 Pancras,Backlog
+ACB-05,2 Pancras,Backlog
+ACB-05,3 Pancras,Backlog
+ACB-05,4 Pancras,Backlog
+ACB-05,B0 Accessway,NA
+ACB-05,WTS,Backlog
+ACB-05,S1,Backlog
+ACB-05,R7,Backlog
+ACB-05,Q1,Backlog
+ACB-05,T2-T3,Backlog
+ACB-05,P2,Backlog
+ACB-05,S3,Backlog
+ACB-05,CDY,Backlog
+ACB-05,MGS,Backlog
+ATS-01,1 Pancras,Backlog
+ATS-01,2 Pancras,Backlog
+ATS-01,3 Pancras,Backlog
+ATS-01,4 Pancras,Backlog
+ATS-01,B0 Accessway,NA
+ATS-01,WTS,Backlog
+ATS-01,S1,Backlog
+ATS-01,R7,Backlog
+ATS-01,Q1,Backlog
+ATS-01,T2-T3,Backlog
+ATS-01,P2,Backlog
+ATS-01,S3,Backlog
+ATS-01,CDY,Backlog
+ATS-01,MGS,Backlog
+ATS-02,1 Pancras,NA
+ATS-02,2 Pancras,NA
+ATS-02,3 Pancras,NA
+ATS-02,4 Pancras,NA
+ATS-02,B0 Accessway,NA
+ATS-02,WTS,NA
+ATS-02,S1,NA
+ATS-02,R7,NA
+ATS-02,Q1,NA
+ATS-02,T2-T3,NA
+ATS-02,P2,NA
+ATS-02,S3,NA
+ATS-02,CDY,NA
+ATS-02,MGS,NA
+ATS-03,1 Pancras,NA
+ATS-03,2 Pancras,NA
+ATS-03,3 Pancras,NA
+ATS-03,4 Pancras,NA
+ATS-03,B0 Accessway,NA
+ATS-03,WTS,NA
+ATS-03,S1,NA
+ATS-03,R7,NA
+ATS-03,Q1,NA
+ATS-03,T2-T3,NA
+ATS-03,P2,NA
+ATS-03,S3,NA
+ATS-03,CDY,NA
+ATS-03,MGS,NA
+ATS-04,1 Pancras,NA
+ATS-04,2 Pancras,NA
+ATS-04,3 Pancras,NA
+ATS-04,4 Pancras,NA
+ATS-04,B0 Accessway,NA
+ATS-04,WTS,NA
+ATS-04,S1,NA
+ATS-04,R7,NA
+ATS-04,Q1,NA
+ATS-04,T2-T3,NA
+ATS-04,P2,NA
+ATS-04,S3,NA
+ATS-04,CDY,NA
+ATS-04,MGS,NA
+ATS-05,1 Pancras,Backlog
+ATS-05,2 Pancras,Backlog
+ATS-05,3 Pancras,Backlog
+ATS-05,4 Pancras,Backlog
+ATS-05,B0 Accessway,NA
+ATS-05,WTS,Backlog
+ATS-05,S1,Backlog
+ATS-05,R7,Backlog
+ATS-05,Q1,Backlog
+ATS-05,T2-T3,Backlog
+ATS-05,P2,Backlog
+ATS-05,S3,Backlog
+ATS-05,CDY,Backlog
+ATS-05,MGS,Backlog
+ATS-06,1 Pancras,NA
+ATS-06,2 Pancras,NA
+ATS-06,3 Pancras,NA
+ATS-06,4 Pancras,NA
+ATS-06,B0 Accessway,NA
+ATS-06,WTS,NA
+ATS-06,S1,NA
+ATS-06,R7,NA
+ATS-06,Q1,NA
+ATS-06,T2-T3,NA
+ATS-06,P2,NA
+ATS-06,S3,NA
+ATS-06,CDY,NA
+ATS-06,MGS,NA
+CAL-01,1 Pancras,Backlog
+CAL-01,2 Pancras,Enabled
+CAL-01,3 Pancras,Backlog
+CAL-01,4 Pancras,Backlog
+CAL-01,B0 Accessway,NA
+CAL-01,WTS,Backlog
+CAL-01,S1,Backlog
+CAL-01,R7,Backlog
+CAL-01,Q1,Backlog
+CAL-01,T2-T3,Backlog
+CAL-01,P2,Backlog
+CAL-01,CDY,NA
+CAL-01,MGS,Backlog
+CAL-02,1 Pancras,Backlog
+CAL-02,2 Pancras,Backlog
+CAL-02,3 Pancras,Backlog
+CAL-02,4 Pancras,Backlog
+CAL-02,B0 Accessway,NA
+CAL-02,WTS,Backlog
+CAL-02,S1,Backlog
+CAL-02,R7,Backlog
+CAL-02,Q1,Backlog
+CAL-02,T2-T3,Backlog
+CAL-02,P2,Backlog
+CAL-02,CDY,NA
+CAL-02,MGS,Backlog
+CAL-03,1 Pancras,NA
+CAL-03,2 Pancras,NA
+CAL-03,3 Pancras,NA
+CAL-03,4 Pancras,NA
+CAL-03,B0 Accessway,NA
+CAL-03,WTS,NA
+CAL-03,S1,NA
+CAL-03,R7,NA
+CAL-03,Q1,NA
+CAL-03,T2-T3,NA
+CAL-03,P2,NA
+CAL-03,S3,NA
+CAL-03,CDY,NA
+CAL-03,MGS,NA
+CAL-04,1 Pancras,NA
+CAL-04,2 Pancras,NA
+CAL-04,3 Pancras,NA
+CAL-04,4 Pancras,NA
+CAL-04,B0 Accessway,NA
+CAL-04,WTS,NA
+CAL-04,S1,NA
+CAL-04,R7,NA
+CAL-04,Q1,NA
+CAL-04,T2-T3,NA
+CAL-04,P2,NA
+CAL-04,S3,NA
+CAL-04,CDY,NA
+CAL-04,MGS,NA
+CAL-05,1 Pancras,Backlog
+CAL-05,2 Pancras,Backlog
+CAL-05,3 Pancras,Backlog
+CAL-05,4 Pancras,Backlog
+CAL-05,B0 Accessway,NA
+CAL-05,WTS,Backlog
+CAL-05,S1,Backlog
+CAL-05,R7,Backlog
+CAL-05,Q1,Backlog
+CAL-05,T2-T3,Backlog
+CAL-05,P2,Backlog
+CAL-05,CDY,NA
+CAL-05,MGS,Backlog
+DE-01,1 Pancras,Backlog
+DE-01,2 Pancras,Enabled
+DE-01,3 Pancras,Backlog
+DE-01,4 Pancras,Backlog
+DE-01,B0 Accessway,NA
+DE-01,WTS,Backlog
+DE-01,S1,Backlog
+DE-01,R7,Backlog
+DE-01,Q1,Backlog
+DE-01,T2-T3,Backlog
+DE-01,P2,Backlog
+DE-01,S3,Backlog
+DE-01,CDY,Backlog
+DE-01,MGS,Backlog
+DE-02,1 Pancras,Backlog
+DE-02,2 Pancras,Backlog
+DE-02,3 Pancras,Backlog
+DE-02,4 Pancras,Backlog
+DE-02,B0 Accessway,NA
+DE-02,WTS,Backlog
+DE-02,S1,Backlog
+DE-02,R7,Backlog
+DE-02,Q1,Backlog
+DE-02,T2-T3,Backlog
+DE-02,P2,Backlog
+DE-02,S3,NA
+DE-02,CDY,NA
+DE-02,MGS,Backlog
+DE-02,F&C,NA
+DE-02,Estate,NA
+DE-03,1 Pancras,NA
+DE-03,2 Pancras,NA
+DE-03,3 Pancras,NA
+DE-03,4 Pancras,NA
+DE-03,B0 Accessway,NA
+DE-03,WTS,NA
+DE-03,S1,NA
+DE-03,R7,NA
+DE-03,Q1,NA
+DE-03,T2-T3,NA
+DE-03,P2,NA
+DE-03,S3,NA
+DE-03,CDY,NA
+DE-03,MGS,NA
+DE-04,1 Pancras,NA
+DE-04,2 Pancras,NA
+DE-04,3 Pancras,NA
+DE-04,4 Pancras,NA
+DE-04,B0 Accessway,NA
+DE-04,WTS,NA
+DE-04,S1,NA
+DE-04,R7,NA
+DE-04,Q1,NA
+DE-04,T2-T3,NA
+DE-04,P2,NA
+DE-04,S3,NA
+DE-04,CDY,NA
+DE-04,MGS,NA
+DE-05,1 Pancras,NA
+DE-05,2 Pancras,NA
+DE-05,3 Pancras,NA
+DE-05,4 Pancras,NA
+DE-05,B0 Accessway,NA
+DE-05,WTS,NA
+DE-05,S1,NA
+DE-05,R7,NA
+DE-05,Q1,NA
+DE-05,T2-T3,NA
+DE-05,P2,NA
+DE-05,S3,NA
+DE-05,CDY,NA
+DE-05,MGS,NA
+DE-06,1 Pancras,NA
+DE-06,2 Pancras,NA
+DE-06,3 Pancras,NA
+DE-06,4 Pancras,NA
+DE-06,B0 Accessway,NA
+DE-06,WTS,NA
+DE-06,S1,NA
+DE-06,R7,NA
+DE-06,Q1,NA
+DE-06,T2-T3,NA
+DE-06,P2,NA
+DE-06,S3,NA
+DE-06,CDY,NA
+DE-06,MGS,NA
+DE-06,F&C,NA
+DE-06,Estate,NA
+PU-01,1 Pancras,Backlog
+PU-01,2 Pancras,Backlog
+PU-01,3 Pancras,Backlog
+PU-01,4 Pancras,Backlog
+PU-01,B0 Accessway,NA
+PU-01,WTS,Backlog
+PU-01,S1,Backlog
+PU-01,R7,Backlog
+PU-01,Q1,Backlog
+PU-01,T2-T3,Backlog
+PU-01,P2,Backlog
+PU-01,S3,Backlog
+PU-01,CDY,Backlog
+PU-01,MGS,Backlog
+PU-02,1 Pancras,Backlog
+PU-02,2 Pancras,Enabled
+PU-02,3 Pancras,Backlog
+PU-02,4 Pancras,Backlog
+PU-02,B0 Accessway,NA
+PU-02,WTS,Backlog
+PU-02,S1,Backlog
+PU-02,R7,Backlog
+PU-02,Q1,Backlog
+PU-02,T2-T3,Backlog
+PU-02,P2,Backlog
+PU-02,S3,Backlog
+PU-02,CDY,Backlog
+PU-02,MGS,NA
+PU-03,1 Pancras,NA
+PU-03,2 Pancras,NA
+PU-03,3 Pancras,NA
+PU-03,4 Pancras,NA
+PU-03,B0 Accessway,NA
+PU-03,WTS,NA
+PU-03,S1,NA
+PU-03,R7,NA
+PU-03,Q1,NA
+PU-03,T2-T3,NA
+PU-03,P2,NA
+PU-03,S3,NA
+PU-03,CDY,NA
+PU-03,MGS,NA
+PU-04,1 Pancras,NA
+PU-04,2 Pancras,NA
+PU-04,3 Pancras,NA
+PU-04,4 Pancras,NA
+PU-04,B0 Accessway,NA
+PU-04,WTS,NA
+PU-04,S1,NA
+PU-04,R7,NA
+PU-04,Q1,NA
+PU-04,T2-T3,NA
+PU-04,P2,NA
+PU-04,S3,NA
+PU-04,CDY,NA
+PU-04,MGS,NA
+DG-01,1 Pancras,Backlog
+DG-01,2 Pancras,Backlog
+DG-01,3 Pancras,Backlog
+DG-01,4 Pancras,Backlog
+DG-01,B0 Accessway,NA
+DG-01,WTS,Backlog
+DG-01,S1,Backlog
+DG-01,R7,Backlog
+DG-01,Q1,Backlog
+DG-01,T2-T3,Backlog
+DG-01,P2,Backlog
+DG-01,S3,Backlog
+DG-01,CDY,Backlog
+DG-01,MGS,Backlog
+DG-02,1 Pancras,NA
+DG-02,2 Pancras,NA
+DG-02,3 Pancras,NA
+DG-02,4 Pancras,NA
+DG-02,B0 Accessway,NA
+DG-02,WTS,NA
+DG-02,S1,NA
+DG-02,R7,NA
+DG-02,Q1,NA
+DG-02,T2-T3,NA
+DG-02,P2,NA
+DG-02,S3,NA
+DG-02,CDY,NA
+DG-02,MGS,NA
+SP-01,1 Pancras,Backlog
+SP-01,2 Pancras,Enabled
+SP-01,3 Pancras,Backlog
+SP-01,4 Pancras,Backlog
+SP-01,B0 Accessway,NA
+SP-01,WTS,Backlog
+SP-01,S1,Backlog
+SP-01,R7,Backlog
+SP-01,Q1,NA
+SP-01,T2-T3,NA
+SP-01,P2,Backlog
+SP-01,S3,Backlog
+SP-01,CDY,Backlog
+SP-01,MGS,NA
+SP-02,1 Pancras,NA
+SP-02,2 Pancras,NA
+SP-02,3 Pancras,NA
+SP-02,4 Pancras,NA
+SP-02,B0 Accessway,NA
+SP-02,WTS,NA
+SP-02,S1,NA
+SP-02,R7,NA
+SP-02,Q1,NA
+SP-02,T2-T3,NA
+SP-02,P2,NA
+SP-02,S3,NA
+SP-02,CDY,NA
+SP-02,MGS,NA
+SP-03,1 Pancras,NA
+SP-03,2 Pancras,NA
+SP-03,3 Pancras,NA
+SP-03,4 Pancras,NA
+SP-03,B0 Accessway,NA
+SP-03,WTS,NA
+SP-03,S1,NA
+SP-03,R7,NA
+SP-03,Q1,NA
+SP-03,T2-T3,NA
+SP-03,P2,NA
+SP-03,S3,NA
+SP-03,CDY,NA
+SP-03,MGS,NA
+SP-04,1 Pancras,NA
+SP-04,2 Pancras,NA
+SP-04,3 Pancras,NA
+SP-04,4 Pancras,NA
+SP-04,B0 Accessway,NA
+SP-04,WTS,NA
+SP-04,S1,NA
+SP-04,R7,NA
+SP-04,Q1,NA
+SP-04,T2-T3,NA
+SP-04,P2,NA
+SP-04,S3,NA
+SP-04,CDY,NA
+SP-04,MGS,NA
+SP-05,1 Pancras,NA
+SP-05,2 Pancras,NA
+SP-05,3 Pancras,NA
+SP-05,4 Pancras,NA
+SP-05,B0 Accessway,NA
+SP-05,WTS,NA
+SP-05,S1,NA
+SP-05,R7,NA
+SP-05,Q1,NA
+SP-05,T2-T3,NA
+SP-05,P2,NA
+SP-05,S3,NA
+SP-05,CDY,NA
+SP-05,MGS,NA
+LD-01,1 Pancras,Backlog
+LD-01,2 Pancras,Enabled
+LD-01,3 Pancras,Backlog
+LD-01,4 Pancras,Backlog
+LD-01,B0 Accessway,NA
+LD-01,WTS,Backlog
+LD-01,S1,Backlog
+LD-01,R7,Backlog
+LD-01,Q1,NA
+LD-01,T2-T3,NA
+LD-01,P2,NA
+LD-01,CDY,Backlog
+LD-01,MGS,NA
+LD-02,1 Pancras,NA
+LD-02,2 Pancras,NA
+LD-02,3 Pancras,NA
+LD-02,4 Pancras,NA
+LD-02,B0 Accessway,NA
+LD-02,WTS,NA
+LD-02,S1,NA
+LD-02,R7,NA
+LD-02,Q1,NA
+LD-02,T2-T3,NA
+LD-02,P2,NA
+LD-02,S3,NA
+LD-02,CDY,NA
+LD-02,MGS,NA
+LD-03,1 Pancras,NA
+LD-03,2 Pancras,NA
+LD-03,3 Pancras,NA
+LD-03,4 Pancras,NA
+LD-03,B0 Accessway,NA
+LD-03,WTS,NA
+LD-03,S1,NA
+LD-03,R7,NA
+LD-03,Q1,NA
+LD-03,T2-T3,NA
+LD-03,P2,NA
+LD-03,S3,NA
+LD-03,CDY,NA
+LD-03,MGS,NA
+RL-01,1 Pancras,Backlog
+RL-01,2 Pancras,NA
+RL-01,3 Pancras,Backlog
+RL-01,4 Pancras,Backlog
+RL-01,B0 Accessway,NA
+RL-01,WTS,Backlog
+RL-01,S1,Backlog
+RL-01,R7,Backlog
+RL-01,Q1,Backlog
+RL-01,T2-T3,Backlog
+RL-01,P2,Backlog
+RL-01,S3,Backlog
+RL-01,CDY,Backlog
+RL-01,MGS,Backlog
+RL-01,F&C,Blocked
+RL-01,Estate,Blocked
+RL-02,1 Pancras,NA
+RL-02,2 Pancras,NA
+RL-02,3 Pancras,NA
+RL-02,4 Pancras,NA
+RL-02,B0 Accessway,NA
+RL-02,WTS,NA
+RL-02,S1,NA
+RL-02,R7,NA
+RL-02,Q1,NA
+RL-02,T2-T3,NA
+RL-02,P2,NA
+RL-02,S3,NA
+RL-02,CDY,NA
+RL-02,MGS,NA
+RL-02,F&C,Blocked
+RL-02,Estate,Blocked
+SC-01,1 Pancras,NA
+SC-01,2 Pancras,NA
+SC-01,3 Pancras,NA
+SC-01,4 Pancras,NA
+SC-01,B0 Accessway,NA
+SC-01,WTS,NA
+SC-01,S1,NA
+SC-01,R7,NA
+SC-01,Q1,NA
+SC-01,T2-T3,NA
+SC-01,P2,NA
+SC-01,S3,NA
+SC-01,CDY,NA
+SC-01,MGS,NA
+SC-02,1 Pancras,NA
+SC-02,2 Pancras,NA
+SC-02,3 Pancras,NA
+SC-02,4 Pancras,NA
+SC-02,B0 Accessway,NA
+SC-02,WTS,NA
+SC-02,S1,NA
+SC-02,R7,NA
+SC-02,Q1,NA
+SC-02,T2-T3,NA
+SC-02,P2,NA
+SC-02,S3,NA
+SC-02,CDY,NA
+SC-02,MGS,NA
+SC-03,1 Pancras,NA
+SC-03,2 Pancras,NA
+SC-03,3 Pancras,NA
+SC-03,4 Pancras,NA
+SC-03,B0 Accessway,NA
+SC-03,WTS,NA
+SC-03,S1,NA
+SC-03,R7,NA
+SC-03,Q1,NA
+SC-03,T2-T3,NA
+SC-03,P2,NA
+SC-03,S3,NA
+SC-03,CDY,NA
+SC-03,MGS,NA
+HX-01,1 Pancras,Backlog
+HX-01,2 Pancras,Backlog
+HX-01,3 Pancras,Backlog
+HX-01,4 Pancras,Backlog
+HX-01,B0 Accessway,NA
+HX-01,WTS,Backlog
+HX-01,S1,Backlog
+HX-01,R7,Backlog
+HX-01,Q1,Backlog
+HX-01,T2-T3,Backlog
+HX-01,P2,Backlog
+HX-01,S3,Backlog
+HX-01,CDY,Backlog
+HX-01,MGS,Backlog
+HX-02,1 Pancras,Backlog
+HX-02,2 Pancras,Backlog
+HX-02,3 Pancras,Backlog
+HX-02,4 Pancras,Backlog
+HX-02,B0 Accessway,NA
+HX-02,WTS,Backlog
+HX-02,S1,Backlog
+HX-02,R7,Backlog
+HX-02,Q1,Backlog
+HX-02,T2-T3,Backlog
+HX-02,P2,Backlog
+HX-02,S3,Backlog
+HX-02,CDY,Backlog
+HX-02,MGS,Backlog
