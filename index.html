@@ -89,7 +89,7 @@ window.XLSX=XLSX;
  --ink:#DCE8EB;--ink2:#AFC4CB;--muted:#7E97A0;
  --petrol:#2E6E84;--petrol-bright:#4FA3BD;--petrol-dim:#27576a;
  --crit:#E06C5A;--warn:#E8B25A;--alert:#5AB6D4;--info:#8FA6AE;--ooh:#C7A8E0;
- --ok:#4CC38A;--live:#3FAE9B;--built:#3E6E7E;--conf:#5A93A6;--backlog:#33505b;--blocked:#E06C5A;--na:#2A3B43;
+ --ok:#4CC38A;--live:#3FAE9B;--built:#3E6E7E;--conf:#5A93A6;--backlog:#33505b;--blocked:#E06C5A;--na:#2A3B43;--st-backlog:#8B95A0;--st-built:#6BA8D6;--st-conf:#4FB5E0;--st-enabled:#5FCC8A;--st-validated:#3FAE9B;--st-blocked:#E86754;--st-na:#3B4F5A;
  /* build (light reading surface) */
  --p-ink:#2c2c2a;--p-mut:#5F5E5A;--p-navy:#1F3864;--p-accent:#2F5496;--p-rule:#d8d6cc;--p-paper:#faf9f6;--p-panel:#fff;
  --c-read:#2D9D8F;--c-param:#7C5CD6;--c-arith:#E08A1E;--c-array:#D65C8B;--c-logic:#4A7DD6;--c-comp:#3E9D5C;
@@ -403,10 +403,24 @@ table.reg .cname{min-width:220px;color:var(--ink)}
 table.reg .ceq{color:var(--muted);min-width:52px;font-size:.66rem}
 table.reg tr:hover .stickyleft{background:var(--panel2)}
 table.reg td.cell{text-align:center;min-width:96px;padding:4px}
+.cellwrap{border-radius:6px;padding:1px;transition:transform .08s}
+.stcell{border-radius:6px}
+.stcell.st-empty{background:transparent}
+.stcell.st-empty .stsel{color:var(--muted);opacity:.55}
+.stcell.st-Backlog{background:var(--st-backlog)}
+.stcell.st-Built{background:var(--st-built)}
+.stcell.st-Configured{background:var(--st-conf)}
+.stcell.st-Enabled{background:var(--st-enabled)}
+.stcell.st-Validated{background:var(--st-validated)}
+.stcell.st-Blocked{background:var(--st-blocked)}
+.stcell.st-NA{background:var(--st-na)}
+.stcell:not(.st-empty) .stsel{color:#0e1b20;font-weight:700}
+.stcell.st-NA .stsel{color:#c6d4dc;font-weight:600}
+.stcell.st-Backlog .stsel{color:#0e1b20}
+.stcell:hover:not(.st-empty){filter:brightness(1.08)}
 .stsel{width:100%;border:none;background:transparent;color:var(--ink);font-family:inherit;font-size:.7rem;padding:5px 4px;border-radius:6px;text-align:center;cursor:pointer;font-weight:600}
 .stsel:disabled{cursor:default;opacity:1;-webkit-appearance:none;appearance:none;text-align:center}
 .stsel:focus{outline:2px solid var(--petrol-bright)}
-.cellwrap{border-radius:6px;padding:1px}
 .reg-legend{display:flex;gap:12px;flex-wrap:wrap;margin:12px 2px 0;font-size:.68rem;color:var(--muted)}
 .reg-legend .lg{display:flex;align-items:center;gap:6px}
 .reg-legend .sw{width:10px;height:10px;border-radius:3px}
@@ -508,15 +522,15 @@ table.reg td.cell{text-align:center;min-width:96px;padding:4px}
 .monsplit{display:grid;grid-template-columns:1fr 1fr;gap:18px;align-items:start}
 @media(max-width:1080px){.monsplit{grid-template-columns:1fr}}
 .moncol{display:flex;flex-direction:column;gap:18px}
-.monpies .pies{grid-template-columns:repeat(auto-fill,minmax(112px,1fr))}
+.monpies .pies{grid-template-columns:repeat(auto-fill,minmax(150px,1fr));gap:14px}
 .pies{display:grid;grid-template-columns:repeat(auto-fill,minmax(132px,1fr));gap:10px}
-.pie{background:var(--panel2);border:1px solid var(--line);border-radius:12px;padding:14px 8px 11px;cursor:pointer;font-family:inherit;color:var(--ink);display:flex;flex-direction:column;align-items:center;gap:7px;transition:border-color .12s,transform .12s}
+.pie{background:var(--panel2);border:1px solid var(--line);border-radius:14px;padding:18px 10px 14px;cursor:pointer;font-family:inherit;color:var(--ink);display:flex;flex-direction:column;align-items:center;gap:9px;transition:border-color .12s,transform .12s}
 .pie:hover{border-color:var(--petrol-bright);transform:translateY(-1px)}
 .pie.on{border-color:var(--petrol-bright);background:var(--panel3);box-shadow:0 0 0 1px var(--petrol-bright) inset}
 .pie.def{opacity:.5}
 .pie svg{display:block}
-.pieval{font-size:20px;font-weight:700;font-family:ui-monospace,Consolas,monospace}
-.pnm{font-size:.78rem;font-weight:650;text-align:center;line-height:1.25}
+.pieval{font-size:23px;font-weight:700;font-family:ui-monospace,Consolas,monospace}
+.pnm{font-size:.86rem;font-weight:650;text-align:center;line-height:1.25}
 .pfr{font-size:.64rem;color:var(--muted)}
 .pblk{color:var(--crit)}
 
@@ -951,7 +965,7 @@ const EQS = [...new Set(FAULTS.map(f=>f.eq))];
 const byRef = {}; FAULTS.forEach(f=>byRef[f.ref]=f);
 
 const STATUS_ORDER=['Blocked','Backlog','Built','Configured','Enabled','Validated'];
-const STATUS_COL={Blocked:'var(--blocked)',Backlog:'var(--backlog)',Built:'var(--built)',Configured:'var(--conf)',Enabled:'var(--live)',Validated:'var(--ok)',NA:'var(--na)'};
+const STATUS_COL={Blocked:'var(--st-blocked)',Backlog:'var(--st-backlog)',Built:'var(--st-built)',Configured:'var(--st-conf)',Enabled:'var(--st-enabled)',Validated:'var(--st-validated)',NA:'var(--st-na)'};
 const SEVS=['Critical','Warning','Alert','Info'];
 const SEVCOL={Critical:'#E06C5A',Warning:'#E8B25A',Alert:'#5AB6D4',Info:'#8FA6AE'};
 
@@ -1077,7 +1091,7 @@ function drawPies(faults){
     .sort((x,y)=>(x.def-y.def)||((covPct(y.m)??-1)-(covPct(x.m)??-1)));
   host.innerHTML=rows.map(r=>{
     const num=COVMODE==='live'?r.m.live:r.m.Validated;
-    return `<button class="pie${F.building===r.b?' on':''}${r.def?' def':''}" data-b="${esc(r.b)}">${ring(r.m,104)}<div class="pnm">${esc(r.b)}</div><div class="pfr mono">${num}/${r.m.scope}${r.m.Blocked?' &middot; <span class="pblk">'+r.m.Blocked+' blocked</span>':''}</div></button>`;
+    return `<button class="pie${F.building===r.b?' on':''}${r.def?' def':''}" data-b="${esc(r.b)}">${ring(r.m,128)}<div class="pnm">${esc(r.b)}</div><div class="pfr mono">${num}/${r.m.scope}${r.m.Blocked?' &middot; <span class="pblk">'+r.m.Blocked+' blocked</span>':''}</div></button>`;
   }).join('')||'<div class="whyc" style="color:var(--muted);font-size:.8rem">No in-scope FDDs under this filter.</div>';
   host.querySelectorAll('.pie').forEach(el=>el.addEventListener('click',()=>{
     const b=el.dataset.b; F.building=(F.building===b?null:b); renderMonitor();
@@ -1659,8 +1673,9 @@ function paintRegBody(){
       const v=ST[f.ref][b]||'';
       const bg=v?cssVar(STATUS_COL[v]||'var(--na)'):'transparent';
       const opts=REG_STATUSES.map(s=>`<option value="${s}"${s===v?' selected':''}>${s===''?'—':s}</option>`).join('');
-      return `<td class="cell"><div class="cellwrap" style="background:${v?bg+'26':'transparent'}">
-        <select class="stsel" data-ref="${f.ref}" data-b="${b}" ${editable?'':'disabled'} style="color:${v?bg:'var(--muted)'}">${opts}</select>
+      const cls = v ? 'stcell st-'+v : 'stcell st-empty';
+      return `<td class="cell"><div class="cellwrap ${cls}">
+        <select class="stsel" data-ref="${f.ref}" data-b="${b}" ${editable?'':'disabled'}>${opts}</select>
       </div></td>`;
     }).join('');
     return `<tr>
@@ -1673,9 +1688,8 @@ function paintRegBody(){
     body.querySelectorAll('.stsel').forEach(sel=>sel.addEventListener('change',e=>{
       const ref=e.target.dataset.ref, b=e.target.dataset.b, val=e.target.value;
       ST[ref][b]=val; dirty[ref+'|'+b]=val;
-      const bg=val?cssVar(STATUS_COL[val]||'var(--na)'):'transparent';
-      e.target.style.color=val?bg:'var(--muted)';
-      e.target.closest('.cellwrap').style.background=val?bg+'26':'transparent';
+      const wrap=e.target.closest('.cellwrap');
+      wrap.className='cellwrap '+(val?('stcell st-'+val):'stcell st-empty');
       cacheSave(); queueSave();
     }));
   }
